@@ -1,0 +1,29 @@
+{
+  "name": "demo-app",
+  "lockfileVersion": 3,
+  "requires": true,
+  "packages": {
+    "": {
+      "name": "demo-app",
+      "version": "1.0.0"
+    },
+    "node_modules/left-pad": {
+      "version": "1.3.0",
+      "resolved": "https://registry.npmjs.org/left-pad/-/left-pad-1.3.0.tgz"
+    },
+    "node_modules/esbuild": {
+      "version": "0.25.0",
+      "hasInstallScript": true,
+      "resolved": "https://registry.npmjs.org/esbuild/-/esbuild-0.25.0.tgz"
+    },
+    "node_modules/sharp": {
+      "version": "0.33.5",
+      "hasInstallScript": true,
+      "resolved": "https://registry.npmjs.org/sharp/-/sharp-0.33.5.tgz"
+    },
+    "node_modules/lodash": {
+      "version": "4.17.21",
+      "resolved": "https://registry.npmjs.org/lodash/-/lodash-4.17.21.tgz"
+    }
+  }
+}

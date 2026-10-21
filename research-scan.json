@@ -1,0 +1,564 @@
+{
+  "scannedAt": "2026-10-21T20:23:13.039Z",
+  "disclaimer": "Representative scan of publicly accessible sources only. Not a crawl of the entire web. Sources that block or require login are skipped without bypass.",
+  "sources": [
+    {
+      "source": "hackernews",
+      "checkedAt": "2026-10-21T20:23:11.193Z",
+      "items": [
+        {
+          "source": "hackernews",
+          "id": "50186129",
+          "title": "Mistral Large 4",
+          "url": "https://docs.mistral.ai/models/mistral-large-4-0",
+          "score": 173,
+          "comments": 33,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50182987",
+          "title": "Today's PHP security release, and how we're strengthening security",
+          "url": "https://thephp.foundation/blog/2026/10/21/todays-php-security-release-and-how-were-strengthening-php-security/",
+          "score": 438,
+          "comments": 212,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50186010",
+          "title": "Google's Rust Style Guide",
+          "url": "https://google.github.io/styleguide/rustguide.html",
+          "score": 51,
+          "comments": 33,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50181114",
+          "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+          "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+          "score": 315,
+          "comments": 112,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50159726",
+          "title": "Why Windows 11 still ships with Windows 95's memory manager hidden inside it",
+          "url": "https://www.windowslatest.com/2026/10/19/why-windows-11-still-ships-with-windows-95s-memory-manager-hidden-inside-it/",
+          "score": 47,
+          "comments": 25,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50185869",
+          "title": "GitLab CVSS 10.0 Integer Overflow issue",
+          "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+          "score": 45,
+          "comments": 11,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50177916",
+          "title": "Eight Bits of Trust: eMudhra's CA keys cracked in milliseconds",
+          "url": "https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/",
+          "score": 740,
+          "comments": 360,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50181136",
+          "title": "DuckDB 2.0.0 LTS “Cinnamon Teal”",
+          "url": "https://duckdb.org/2026/10/21/announcing-duckdb-200",
+          "score": 310,
+          "comments": 35,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50184586",
+          "title": "EA is shutting down BioWare",
+          "url": "https://www.theverge.com/games/1015647/ea-is-shutting-down-bioware",
+          "score": 304,
+          "comments": 188,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50182526",
+          "title": "Oregon lawmakers approve money to buy an iconic waterfall listed on Redfin",
+          "url": "https://apnews.com/article/oregon-waterfall-for-sale-lawmakers-996de63462d49ec3ad9bee1629fb9488",
+          "score": 137,
+          "comments": 72,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50162044",
+          "title": "Tiny possum and glider thought extinct for 6000 years found in remote West Papua",
+          "url": "https://www.bbc.com/news/articles/cp814l80pw2o",
+          "score": 107,
+          "comments": 17,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50181175",
+          "title": "Patch the Planet: global response coordination as agents uncover vulnerabilities",
+          "url": "https://openai.com/index/coordinated-disclosure-of-critical-vulnerabilities/",
+          "score": 191,
+          "comments": 121,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50180873",
+          "title": "PHP 8.2.35",
+          "url": "https://github.com/php/php-src/releases/tag/php-8.2.35",
+          "score": 893,
+          "comments": 504,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50183512",
+          "title": "New plastic pollution discovered: 'Plasticorals' coral rubble fused with plastic",
+          "url": "https://www.oist.jp/news-center/news/2026/9/18/new-form-plastic-pollution-discovered-shores-vulnerable-coral-reefs",
+          "score": 57,
+          "comments": 15,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50186518",
+          "title": "After automation: Solo founding will be the default",
+          "url": "https://every.to/thesis-statements/julian-weisser",
+          "score": 9,
+          "comments": 7,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50180079",
+          "title": "OpenAI models are coming to Google Cloud",
+          "url": "https://openai.com/index/openai-models-google-cloud/",
+          "score": 166,
+          "comments": 64,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50185438",
+          "title": "Anthropic's Public Benefit Charter",
+          "url": "https://www.anthropic.com/public-benefit-charter",
+          "score": 42,
+          "comments": 34,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50186318",
+          "title": "Plex laid off the whole player team",
+          "url": "https://forums.plex.tv/t/2026-20-0-beta-ios-and-tvos-4k-dovi-hdr10-won-t-play-infinite-spinning-circle/943966?page=5",
+          "score": 59,
+          "comments": 38,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50185630",
+          "title": "Canary Tokens",
+          "url": "https://canarytokens.org/",
+          "score": 62,
+          "comments": 11,
+          "type": "story"
+        },
+        {
+          "source": "hackernews",
+          "id": "50166706",
+          "title": "A Place Among the Fiddlers",
+          "url": "https://longreads.com/2026/10/01/galax-old-fiddlers-convention-music/",
+          "score": 6,
+          "comments": 0,
+          "type": "story"
+        }
+      ]
+    },
+    {
+      "source": "devto",
+      "checkedAt": "2026-10-21T20:23:11.216Z",
+      "items": [
+        {
+          "source": "devto",
+          "id": "4885759",
+          "title": "How to Become a Tech Conference Speaker (And Why You Might Regret It)",
+          "url": "https://dev.to/sylwia-lask/how-to-become-a-tech-conference-speaker-and-why-you-might-regret-it-2ink",
+          "score": 91,
+          "tags": [
+            "career",
+            "speaking",
+            "techtalks"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4890855",
+          "title": "I Got Tired of Coming into my Lab to Check the Pressure of my Cryocooler so I Built a Tool to do it for Me",
+          "url": "https://dev.to/pahorton/i-got-tired-of-coming-into-my-lab-to-check-the-pressure-of-my-cryocooler-so-i-built-a-tool-to-do-it-4ob7",
+          "score": 35,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "tigerdata",
+            "githubcopilot"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4882857",
+          "title": "Stuck in the same dev.to topics? An open model fixed it.",
+          "url": "https://dev.to/thomasbnt/stuck-in-the-same-devto-topics-an-open-model-fixed-it-4mbc",
+          "score": 26,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "ai",
+            "javascript"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4825930",
+          "title": "In Ruby, Objects Don't Have Methods. How Method Lookup Actually Works.",
+          "url": "https://dev.to/smtahosin/in-ruby-objects-dont-have-methods-how-method-lookup-actually-works-31g9",
+          "score": 18,
+          "tags": [
+            "ruby",
+            "programming",
+            "webdev",
+            "oop"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4858037",
+          "title": "is-kit Reached 100 Stars ⭐🎉 Here’s What Changed Since 50",
+          "url": "https://dev.to/nyaomaru/is-kit-reached-100-stars-heres-what-changed-since-50-49pf",
+          "score": 50,
+          "tags": [
+            "typescript",
+            "opensource",
+            "webdev",
+            "frontend"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4885558",
+          "title": "I'm Building a Hiring Platform That Starts With People, Not Job Descriptions",
+          "url": "https://dev.to/hubedav/im-building-a-hiring-platform-that-starts-with-people-not-job-descriptions-ha6",
+          "score": 6,
+          "tags": [
+            "jobmarket",
+            "building",
+            "project",
+            "pilot"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4886799",
+          "title": "How to publish posts via the dev.to API",
+          "url": "https://dev.to/julies1/how-to-publish-posts-via-the-devto-api-2fkd",
+          "score": 16,
+          "tags": [
+            "python",
+            "automation",
+            "beginners",
+            "productivity"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4883453",
+          "title": "I'm a First-Year ECE Student Trying to Figure Out \"The Prestige Path\" vs. Just Building Stuff",
+          "url": "https://dev.to/effessdev/im-a-first-year-ece-student-trying-to-figure-out-the-prestige-path-vs-just-building-stuff-26f5",
+          "score": 33,
+          "tags": [
+            "discuss",
+            "career",
+            "beginners",
+            "development"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4884266",
+          "title": "SlothSRE (NapOps): An Overnight Gemma 4 & ADK Agent That Compresses 418 Lines of 3 AM Alerts into a 2-Line Morning Digest",
+          "url": "https://dev.to/gde/slothsre-napops-an-overnight-gemma-4-adk-agent-that-compresses-418-lines-of-3-am-alerts-into-a-1pk6",
+          "score": 6,
+          "tags": [
+            "devchallenge",
+            "hf26challenge",
+            "gemma",
+            "opensource"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4883684",
+          "title": "Processes vs Threads, as the Linux Kernel Sees Them",
+          "url": "https://dev.to/lovestaco/processes-vs-threads-as-the-linux-kernel-sees-them-55pk",
+          "score": 30,
+          "tags": [
+            "linux",
+            "operatingsystems",
+            "concurrency",
+            "programming"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4884560",
+          "title": "Where Do Your Users' Passwords Actually Live? Self-Hosted vs Managed Keycloak",
+          "url": "https://dev.to/hadil/where-do-your-users-passwords-actually-live-self-hosted-vs-managed-keycloak-97e",
+          "score": 18,
+          "tags": [
+            "programming",
+            "development",
+            "authentication",
+            "keycloak"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4889864",
+          "title": "State of AI Instruction Quality: Coding Agent Comparison",
+          "url": "https://dev.to/reporails/state-of-ai-instruction-quality-coding-agent-comparison-1e5n",
+          "score": 6,
+          "tags": [
+            "ai",
+            "claude",
+            "agents",
+            "agentskills"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4888305",
+          "title": "My OSS Projects: dets",
+          "url": "https://dev.to/florianrappl/my-oss-projects-dets-1gjk",
+          "score": 6,
+          "tags": [
+            "opensource",
+            "typescript",
+            "javascript",
+            "webdev"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4885684",
+          "title": "SlothFinance: The Autonomous Open-Source AI Financial Tamer That Rewards Your Laziness 🦥",
+          "url": "https://dev.to/vidisha_gupta_/slothfinance-the-autonomous-open-source-ai-financial-tamer-that-rewards-your-laziness-5bp5",
+          "score": 26,
+          "tags": [
+            "hacktoberfest",
+            "tabpfn",
+            "gemma",
+            "render"
+          ]
+        },
+        {
+          "source": "devto",
+          "id": "4886284",
+          "title": "In Defense of Being a Little Lazy",
+          "url": "https://dev.to/sizzlebop/in-defense-of-being-a-little-lazy-1cg9",
+          "score": 12,
+          "tags": [
+            "discuss",
+            "productivity",
+            "devjournal",
+            "watercooler"
+          ]
+        }
+      ]
+    },
+    {
+      "source": "github_search",
+      "checkedAt": "2026-10-21T20:23:11.815Z",
+      "items": [
+        {
+          "source": "github_search",
+          "id": "1410124849",
+          "title": "wheresryan22/anatomy",
+          "url": "https://github.com/wheresryan22/anatomy",
+          "score": 18439,
+          "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and complex systems. Generates polished SVGs with optional WebGL shaders and 3D effects."
+        },
+        {
+          "source": "github_search",
+          "id": "1423101235",
+          "title": "Gathin23/cleanyourtv",
+          "url": "https://github.com/Gathin23/cleanyourtv",
+          "score": 18392,
+          "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home."
+        },
+        {
+          "source": "github_search",
+          "id": "1421825221",
+          "title": "deepseek-ai/DeepInfer",
+          "url": "https://github.com/deepseek-ai/DeepInfer",
+          "score": 17633,
+          "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models"
+        },
+        {
+          "source": "github_search",
+          "id": "1410929004",
+          "title": "ARahim3/DigUp",
+          "url": "https://github.com/ARahim3/DigUp",
+          "score": 5329,
+          "description": "Search your computer by what's in your files: photos, PDFs, documents, recordings, videos and code. On-device on Mac, Windows and Linux, built on Google DeepMind's EmbeddingGemma 2."
+        },
+        {
+          "source": "github_search",
+          "id": "1415313946",
+          "title": "jhaizhou-ops/d2r-mobile",
+          "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+          "score": 4304,
+          "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock expansion. Runs your own Switch copy natively on iPhone, iPad and Mac — full touch controls, 60 fps, new endgame modes. Bring your own game files. 开源的《暗黑破坏神 II：狱火重生》术士君临 iOS / macOS 兼容层"
+        },
+        {
+          "source": "github_search",
+          "id": "1423689866",
+          "title": "ly05010419/MacNativeGames",
+          "url": "https://github.com/ly05010419/MacNativeGames",
+          "score": 3764,
+          "description": ""
+        },
+        {
+          "source": "github_search",
+          "id": "1412548284",
+          "title": "storytold/craft-launcher",
+          "url": "https://github.com/storytold/craft-launcher",
+          "score": 3754,
+          "description": "The Craft App Launcher"
+        },
+        {
+          "source": "github_search",
+          "id": "1409893258",
+          "title": "T-Auto/dsh-ops",
+          "url": "https://github.com/T-Auto/dsh-ops",
+          "score": 3663,
+          "description": "A toolkit for low-level operations in DSH, designed to reduce token usage and task execution time / DSH 底层操作工具插件，旨在减少 Token 消耗与任务耗时"
+        },
+        {
+          "source": "github_search",
+          "id": "1416386910",
+          "title": "Arekejoker/qwen21-nsfw-pose-skill",
+          "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+          "score": 3579,
+          "description": "Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claude Code / Codex / Cursor / OpenClaw"
+        },
+        {
+          "source": "github_search",
+          "id": "1414685342",
+          "title": "onehumanbeing/esp32-iphone-agent",
+          "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+          "score": 3474,
+          "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatible vision model. No Mac, no developer account, no jailbreak."
+        },
+        {
+          "source": "github_search",
+          "id": "1417456983",
+          "title": "HeyPuter/everything",
+          "url": "https://github.com/HeyPuter/everything",
+          "score": 3433,
+          "description": "We're rebuilding and open-sourcing the world’s software from scratch."
+        },
+        {
+          "source": "github_search",
+          "id": "1412112308",
+          "title": "storytold/figcraft",
+          "url": "https://github.com/storytold/figcraft",
+          "score": 3036,
+          "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collaborative design workflows in pure Rust"
+        }
+      ]
+    },
+    {
+      "source": "osv_malware_feed",
+      "checkedAt": "2026-10-21T20:23:12.920Z",
+      "items": [
+        {
+          "source": "osv",
+          "id": "GHSA-3cv6-jpf6-8222",
+          "title": "GHSA-3cv6-jpf6-8222: LiteLLM: Authenticated SSRF and provider-credential exfiltration via unvalidated request-body routing parameters",
+          "url": "https://osv.dev/vulnerability/GHSA-3cv6-jpf6-8222",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-3xr8-qfvj-9p9j",
+          "title": "GHSA-3xr8-qfvj-9p9j: Arbitrary file deletion in litellm",
+          "url": "https://osv.dev/vulnerability/GHSA-3xr8-qfvj-9p9j",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-46cm-pfwv-cgf8",
+          "title": "GHSA-46cm-pfwv-cgf8: LiteLLM has Server-Side Template Injection vulnerability in /completions endpoint",
+          "url": "https://osv.dev/vulnerability/GHSA-46cm-pfwv-cgf8",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4g5m-c9r5-49xf",
+          "title": "GHSA-4g5m-c9r5-49xf: LiteLLM: Local file read via request-supplied OIDC file references",
+          "url": "https://osv.dev/vulnerability/GHSA-4g5m-c9r5-49xf",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4jcj-7x88-m979",
+          "title": "GHSA-4jcj-7x88-m979: LiteLLM: MCP Proxy Has Improper Authentication",
+          "url": "https://osv.dev/vulnerability/GHSA-4jcj-7x88-m979",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-4xpc-pv4p-pm3w",
+          "title": "GHSA-4xpc-pv4p-pm3w: LiteLLM: Authentication Bypass via Host Header Injection",
+          "url": "https://osv.dev/vulnerability/GHSA-4xpc-pv4p-pm3w",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-53gh-p8jc-7rg8",
+          "title": "GHSA-53gh-p8jc-7rg8: LiteLLM Vulnerable to Remote Code Execution (RCE)",
+          "url": "https://osv.dev/vulnerability/GHSA-53gh-p8jc-7rg8",
+          "score": 1
+        },
+        {
+          "source": "osv",
+          "id": "GHSA-53mr-6c8q-9789",
+          "title": "GHSA-53mr-6c8q-9789: LiteLLM: Privilege escalation via unrestricted proxy configuration endpoint",
+          "url": "https://osv.dev/vulnerability/GHSA-53mr-6c8q-9789",
+          "score": 1
+        }
+      ],
+      "note": "Representative OSV package query (litellm) plus news-linked supply-chain signals; not a full registry crawl."
+    },
+    {
+      "source": "reddit_programming",
+      "checkedAt": "2026-10-21T20:23:13.039Z",
+      "items": [],
+      "skipped": true,
+      "error": "HTTP 403 (respecting block; no bypass)"
+    }
+  ]
+}
