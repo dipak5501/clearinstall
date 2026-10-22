@@ -1,5 +1,6 @@
 {
   "shipped": [
-    "requirements-txt-v1"
+    "requirements-txt-v1",
+    "ignore-scripts-hint-v1"
   ]
 }
