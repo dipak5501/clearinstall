@@ -61,6 +61,7 @@ export function mount(root: HTMLElement) {
           </ul>
         </section>
       </div>
+      <section class="panel" id="insights-panel" style="grid-column:1/-1;margin-top:1rem"><h2>Web insights</h2><div id="insights-body" class="footnote">Loading…</div></section>
       <p class="footnote">Default mode keeps files in this browser tab. OSV opt-in sends package names and versions only to api.osv.dev. Bound to 127.0.0.1.</p>
       <pre class="report" id="report" hidden></pre>
       <p id="err" class="footnote" style="color:var(--danger)"></p>
@@ -217,7 +218,20 @@ export function mount(root: HTMLElement) {
     a.click();
   });
 
+  loadInsights(root);
   render();
+}
+
+async function loadInsights(root: HTMLElement) {
+  try {
+    const res = await fetch("/insights.json", { cache: "no-store" });
+    if (!res.ok) return;
+    const data = await res.json();
+    const el = root.querySelector("#insights-body");
+    if (!el) return;
+    const acts = (data.actions || []).map((a: string) => "<li>" + escapeHtml(a) + "</li>").join("");
+    el.innerHTML = "<p><strong>" + escapeHtml(data.headline || "") + "</strong></p><p>" + escapeHtml(data.summary || "") + "</p><ul>" + acts + "</ul>";
+  } catch { /* ignore */ }
 }
 
 function escapeHtml(s: string) {

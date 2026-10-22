@@ -1,0 +1,49 @@
+{
+  "updatedAt": "2026-10-22T21:51:43.323Z",
+  "app": "ClearInstall",
+  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
+  "summary": "Integrate real-time dependency risk analysis to provide instant feedback on potential vulnerabilities and security issues, ensuring a safer development environment. Improve user experience by offering granular control over package installation, and expand support for additional package managers like Go and Ruby.",
+  "actions": [
+    "Implement real-time vulnerability scanning during the install process to alert users of any known risks associated with the packages they are about to install.",
+    "Add a feature that allows users to customize their risk tolerance levels, providing different levels of detail and severity alerts based on their preferences.",
+    "Expand ClearInstall’s compatibility to support Go and Ruby package managers, ensuring a consistent experience across multiple programming languages."
+  ],
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 23697
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 19805
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 4444
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "score": 4398
+    },
+    {
+      "source": "github_search",
+      "title": "storytold/craft-launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "score": 3841
+    },
+    {
+      "source": "github_search",
+      "title": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "score": 3629
+    }
+  ]
+}

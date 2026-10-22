@@ -47,3 +47,13 @@ See [RESEARCH.md](./RESEARCH.md) for sources and the date checked (representativ
 ## License
 
 MIT
+
+## Self-adaptation
+
+This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
+
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
+
+Integrate real-time dependency risk analysis to provide instant feedback on potential vulnerabilities and security issues, ensuring a safer development environment. Improve user experience by offering granular control over package installation, and expand support for additional package managers like Go and Ruby.
+
+See `learning/LATEST.json` and `public/insights.json`.
