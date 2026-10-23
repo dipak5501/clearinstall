@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-10-23T09:56:33.016Z",
+  "updatedAt": "2026-10-23T12:57:33.309Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
-  "summary": "Integrate real-time dependency risk analysis to provide users with up-to-date security threats, and incorporate a feature that automatically checks for outdated or deprecated packages. Enhance user experience by providing detailed explanations of potential risks associated with each package.",
+  "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
+  "summary": "Integrate real-time dependency analysis to detect potential security risks and outdated packages, ensuring a safer installation process. Implement dynamic binding.gyp command expansion checks for native modules, providing immediate feedback on any potential issues. Optimize the user interface to display detailed risk assessments in an intuitive manner.",
   "actions": [
-    "Implement a real-time API integration with popular security databases to alert users about any known vulnerabilities in their dependencies before installation.",
-    "Develop an automatic update checker that scans installed packages against the latest versions and warns users if they are using outdated or deprecated libraries",
-    "Create a user-friendly interface that provides detailed explanations of potential risks associated with each package, helping users make informed decisions abou"
+    "Integrate real-time dependency scanning tools like DeepInfer to identify security vulnerabilities and outdated packages before installation.",
+    "Develop a dynamic binding.gyp command expansion checker that alerts users to any potential risks associated with native module installations.",
+    "Redesign the user interface to present risk assessments in a clear, actionable format, allowing users to make informed decisions during the install process."
   ],
   "signals": [
     {
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 25991
+      "score": 26392
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 20492
+      "score": 20629
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 4695
+      "score": 4743
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 4448
+      "score": 4454
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 3705
     },
     {
       "source": "github_search",
       "title": "HeyPuter/everything",
       "url": "https://github.com/HeyPuter/everything",
-      "score": 3670
-    },
-    {
-      "source": "github_search",
-      "title": "Arekejoker/qwen21-nsfw-pose-skill",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "score": 3658
+      "score": 3686
     }
   ]
 }
