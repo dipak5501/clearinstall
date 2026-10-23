@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhancing ClearInstall with Trend Signals
+**Latest:** Enhancing ClearInstall with Public Trend Signals
 
-By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages. This will help users ensure their local-first applications are secure before installation.
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages. This will improve the security and reliability of local-first installations.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
