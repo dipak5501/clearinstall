@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-23T03:54:28.673Z",
+  "updatedAt": "2026-10-23T06:55:33.472Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Assessment",
-  "summary": "Integrate real-time dependency risk assessment to provide up-to-date security insights, expand the scope of analysis to include more complex build files like binding.gyp, and introduce a user-friendly dashboard for easy monitoring of installation risks.",
+  "headline": "Enhance ClearInstall with Real-time Dependency Risk Analysis",
+  "summary": "Integrate real-time dependency risk analysis to provide up-to-date security insights, expand the scope of vulnerability checks to include binding.gyp command expansions, and implement a user-friendly interface for detailed risk reports.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 24707
+      "score": 25326
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 20112
+      "score": 20294
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 4558
+      "score": 4629
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/d2r-mobile",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 4421
+      "score": 4433
     },
     {
       "source": "github_search",
       "title": "Arekejoker/qwen21-nsfw-pose-skill",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "score": 3634
+      "score": 3648
     },
     {
       "source": "github_search",
       "title": "HeyPuter/everything",
       "url": "https://github.com/HeyPuter/everything",
-      "score": 3598
+      "score": 3632
     }
   ]
 }

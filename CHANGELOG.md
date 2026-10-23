@@ -65,3 +65,21 @@ Signals:
 - ly05010419/MacNativeGames
 - jhaizhou-ops/d2r-mobile
 - Arekejoker/qwen21-nsfw-pose-skill
+
+## 2026-10-23 — web-learn-2026-10-23T06
+
+Enhance ClearInstall with Real-time Dependency Risk Analysis
+
+Integrate real-time dependency risk analysis to provide up-to-date security insights, expand the scope of vulnerability checks to include binding.gyp command expansions, and implement a user-friendly interface for detailed risk reports.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- ly05010419/MacNativeGames
+- jhaizhou-ops/d2r-mobile
+- Arekejoker/qwen21-nsfw-pose-skill
