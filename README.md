@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Dependency Analysis
 
-Integrate real-time dependency analysis to detect potential security risks and vulnerabilities in npm/PyPI packages, including binding.gyp command expansions. Leverage machine learning models from DeepInfer for enhanced accuracy and speed.
+Integrate public trend signals to identify potential security risks early in the development process, ensuring that ClearInstall users can make informed decisions about their dependencies. Leverage machine learning models for predictive analysis of dependency trends and vulnerabilities.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
