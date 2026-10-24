@@ -1,0 +1,88 @@
+{
+  "at": "2026-10-24T16:00:52.763Z",
+  "featureId": "web-learn-2026-10-24T16",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
+    "summary": "Integrate real-time dependency risk analysis to boost the security of npm and PyPI installations, and expand support for binding.gyp command expansion to cover more use cases. Implement a user-friendly interface that highlights potential risks during the installation process.",
+    "actions": [
+      "Implement real-time dependency risk analysis to detect vulnerabilities in npm and PyPI packages before installation.",
+      "Expand support for binding.gyp command expansion to ensure compatibility with a wider range of native modules.",
+      "Develop an intuitive user interface that visually highlights potential risks, guiding users through the installation process."
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 30599
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 21669
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 5145
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "score": 4536
+    },
+    {
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 4283
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 4164
+    },
+    {
+      "source": "github_search",
+      "title": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "score": 3806
+    },
+    {
+      "source": "github_search",
+      "title": "onehumanbeing/esp32-iphone-agent",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "score": 3757
+    },
+    {
+      "source": "github_search",
+      "title": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "score": 3699
+    },
+    {
+      "source": "github_search",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "score": 3125
+    },
+    {
+      "source": "github_search",
+      "title": "liseami/CCBaga",
+      "url": "https://github.com/liseami/CCBaga",
+      "score": 2965
+    },
+    {
+      "source": "github_search",
+      "title": "seedds/nxnative",
+      "url": "https://github.com/seedds/nxnative",
+      "score": 2826
+    }
+  ]
+}
