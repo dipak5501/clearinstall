@@ -227,3 +227,21 @@ Signals:
 - ly05010419/MacNativeGames
 - jhaizhou-ops/d2r-mobile
 - simbasjungles/free-my-tv
+
+## 2026-10-24 — web-learn-2026-10-24T07
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with local-first lockfile installations. This improvement will help users avoid potential security vulnerabilities and ensure a smoother development process.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- ly05010419/MacNativeGames
+- jhaizhou-ops/d2r-mobile
+- simbasjungles/free-my-tv
