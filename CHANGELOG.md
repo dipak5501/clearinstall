@@ -191,3 +191,21 @@ Signals:
 - ly05010419/MacNativeGames
 - jhaizhou-ops/d2r-mobile
 - simbasjungles/free-my-tv
+
+## 2026-10-24 — web-learn-2026-10-24T01
+
+Enhance ClearInstall with Real-Time Dependency Risk Analysis
+
+Integrate real-time dependency risk analysis to provide up-to-date security insights, expand support for additional package managers like NuGet and Go modules, and implement a user-friendly dashboard for tracking installation risks.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- ly05010419/MacNativeGames
+- jhaizhou-ops/d2r-mobile
+- simbasjungles/free-my-tv
