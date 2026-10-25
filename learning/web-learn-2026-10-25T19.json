@@ -1,0 +1,88 @@
+{
+  "at": "2026-10-25T19:21:15.489Z",
+  "featureId": "web-learn-2026-10-25T19",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall Security and Transparency",
+    "summary": "By integrating public trend signals, ClearInstall can improve its security features and user transparency. This will help in identifying potential risks early during the installation process.",
+    "actions": [
+      "Integrate real-time vulnerability checks for npm/PyPI packages to provide up-to-date security information.",
+      "Add support for analyzing `binding.gyp` files more comprehensively, ensuring all dependencies are securely evaluated.",
+      "Implement a feature that scans for known malicious patterns in package metadata and dependency trees."
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 34491
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 22332
+    },
+    {
+      "source": "github_search",
+      "title": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 6149
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 5432
+    },
+    {
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 4961
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/d2r-mobile",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "score": 4624
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 4544
+    },
+    {
+      "source": "github_search",
+      "title": "HeyPuter/everything",
+      "url": "https://github.com/HeyPuter/everything",
+      "score": 3869
+    },
+    {
+      "source": "github_search",
+      "title": "seedds/nxnative",
+      "url": "https://github.com/seedds/nxnative",
+      "score": 3864
+    },
+    {
+      "source": "github_search",
+      "title": "Arekejoker/qwen21-nsfw-pose-skill",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "score": 3724
+    },
+    {
+      "source": "github_search",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "score": 3674
+    },
+    {
+      "source": "github_search",
+      "title": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "score": 2769
+    }
+  ]
+}
