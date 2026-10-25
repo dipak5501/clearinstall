@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall Security and Transparency
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-By integrating public trend signals, ClearInstall can improve its security features and user transparency. This will help in identifying potential risks early during the installation process.
+By incorporating public trend signals, ClearInstall can improve its risk assessment capabilities and user experience. This will help users make informed decisions before running installations.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
