@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-25T22:23:10.394Z",
+  "updatedAt": "2026-10-26T01:25:04.524Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "By incorporating public trend signals, ClearInstall can improve its risk assessment capabilities and user experience. This will help users make informed decisions before running installations.",
+  "summary": "Integrate public trend signals to improve the visibility and security of ClearInstall, ensuring users can make informed decisions before running npm or PyPI installations. Enhancements will focus on expanding the risk assessment capabilities to include binding.gyp command expansion and other emerging threats.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 34803
+      "score": 35262
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 22369
+      "score": 22415
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 6474
+      "score": 6807
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5449
+      "score": 5474
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 4968
+      "score": 5023
     },
     {
       "source": "github_search",
-      "title": "jhaizhou-ops/d2r-mobile",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "score": 4628
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 4616
     }
   ]
 }
