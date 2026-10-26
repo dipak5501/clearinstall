@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-26T19:35:06.658Z",
+  "updatedAt": "2026-10-26T22:37:21.063Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
-  "summary": "Integrate real-time dependency analysis to provide instant feedback on potential risks during installation, improve user experience through faster and more accurate risk assessments, and incorporate machine learning models for predicting potential issues before they occur.",
+  "headline": "Enhance ClearInstall with Public Trend Signals",
+  "summary": "Integrate real-time risk assessment tools and user feedback mechanisms to improve the accuracy of install-time risks, enhance user experience through better UI/UX design, and incorporate multi-platform support for broader compatibility.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 38741
+      "score": 39074
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 22977
+      "score": 23005
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 9274
+      "score": 9541
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 6009
+      "score": 6020
     },
     {
       "source": "github_search",
       "title": "seedds/nxnative",
       "url": "https://github.com/seedds/nxnative",
-      "score": 5758
+      "score": 5966
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 5742
+      "score": 5768
     }
   ]
 }
