@@ -1,0 +1,88 @@
+{
+  "at": "2026-10-27T10:46:11.889Z",
+  "featureId": "web-learn-2026-10-27T10",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
+    "summary": "Integrate real-time dependency analysis to provide up-to-date security and compatibility insights, expand support for binding.gyp command expansion, and introduce a user-friendly interface for risk assessment.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 40416
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 23261
+    },
+    {
+      "source": "github_search",
+      "title": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 10582
+    },
+    {
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 6500
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 5927
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 4905
+    },
+    {
+      "source": "github_search",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "score": 4159
+    },
+    {
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4068
+    },
+    {
+      "source": "github_search",
+      "title": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "score": 3146
+    },
+    {
+      "source": "github_search",
+      "title": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "score": 2970
+    },
+    {
+      "source": "github_search",
+      "title": "kingcharleslzy-ai/dsh-purge",
+      "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+      "score": 2959
+    },
+    {
+      "source": "github_search",
+      "title": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "score": 2890
+    }
+  ]
+}
