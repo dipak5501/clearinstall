@@ -1,0 +1,88 @@
+{
+  "at": "2026-10-27T01:39:32.414Z",
+  "featureId": "web-learn-2026-10-27T01",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
+    "summary": "Integrate real-time dependency analysis to detect potential issues early in the development process, improve user feedback mechanisms for better guidance, and expand support for additional package managers like Go and Rust.",
+    "actions": [
+      "Implement a real-time dependency analysis feature that scans for known vulnerabilities or risky dependencies before installation, providing immediate alerts and",
+      "Enhance the user interface to offer more detailed and actionable feedback during the install process, guiding users through potential risks and suggesting safer",
+      "Expand ClearInstall's support to include additional package managers such as Go and Rust, ensuring a comprehensive solution for developers working with multiple"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 39375
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 23041
+    },
+    {
+      "source": "github_search",
+      "title": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 9787
+    },
+    {
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 6128
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 5796
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 4868
+    },
+    {
+      "source": "github_search",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "score": 4043
+    },
+    {
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 3855
+    },
+    {
+      "source": "github_search",
+      "title": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "score": 3002
+    },
+    {
+      "source": "github_search",
+      "title": "Leonxlnx/earshot",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "score": 2915
+    },
+    {
+      "source": "github_search",
+      "title": "kingcharleslzy-ai/dsh-purge",
+      "url": "https://github.com/kingcharleslzy-ai/dsh-purge",
+      "score": 2839
+    },
+    {
+      "source": "github_search",
+      "title": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "score": 2751
+    }
+  ]
+}
