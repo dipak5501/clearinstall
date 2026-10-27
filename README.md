@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Risk Assessment
 
-Utilize public trend signals to integrate real-time risk assessment features into ClearInstall, improving its ability to detect and warn users about potential security threats during npm or PyPI installations. Enhance the user interface for better visibility of binding.gyp command expansions, ensuring users can make informed decisions before running installs.
+Integrate real-time risk assessment tools to provide users with up-to-date security and dependency issues, ensuring that the installed packages are free from known vulnerabilities. Incorporate user feedback mechanisms to continuously improve the accuracy of the audit process.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
