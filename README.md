@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Dependency Analysis
+**Latest:** Enhancing ClearInstall with Public Trend Signals
 
-Integrate real-time dependency analysis to detect potential issues early in the development process, improve user feedback mechanisms for better guidance, and expand support for additional package managers like Go and Rust.
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages. This improvement will help users ensure their local-first lockfiles are secure before installation.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
