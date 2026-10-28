@@ -857,3 +857,21 @@ Signals:
 - Zagitta/gpu-unlock
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
+
+## 2026-10-28 — web-learn-2026-10-28T16
+
+Enhance ClearInstall with Real-Time Risk Assessment
+
+Integrate real-time risk assessment for npm and PyPI packages, expand support for binding.gyp command expansion, and introduce dynamic lockfile validation to improve security and reliability of installations.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
