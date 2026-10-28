@@ -911,3 +911,21 @@ Signals:
 - Zagitta/gpu-unlock
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
+
+## 2026-10-28 — web-learn-2026-10-28T23
+
+Enhancing ClearInstall with Trend Signals
+
+By incorporating public trend signals, ClearInstall can improve its local-first lockfile and install-surface auditing capabilities. This will help users better understand the risks associated with npm/PyPI packages before installation, including potential binding.gyp command expansions.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
