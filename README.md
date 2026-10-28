@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Dependency Analysis
 
-Integrate real-time dependency analysis to detect potential vulnerabilities and security risks, improve user interface for better readability, and add support for additional package managers like pip3.
+Integrate real-time dependency analysis to detect potential risks early, improve user experience by providing detailed risk assessments, and expand support for additional package managers like PyPI.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-10-28T04:59:11.101Z",
+  "updatedAt": "2026-10-28T08:01:24.515Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
-  "summary": "Integrate real-time dependency analysis to detect potential vulnerabilities and security risks, improve user interface for better readability, and add support for additional package managers like pip3.",
+  "summary": "Integrate real-time dependency analysis to detect potential risks early, improve user experience by providing detailed risk assessments, and expand support for additional package managers like PyPI.",
   "actions": [
-    "Implement a real-time dependency analysis feature that checks for known vulnerabilities in npm and PyPI packages before installation, providing detailed reports",
-    "Enhance the user interface to display complex dependency trees more clearly, allowing users to easily identify which dependencies might pose risks during instal",
-    "Expand ClearInstall’s compatibility by adding support for pip3, enabling it to audit Python package installations alongside npm, thus offering a comprehensive s"
+    "[object Object]",
+    "[object Object]",
+    "[object Object]"
   ],
   "signals": [
     {
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 42219
+      "score": 42517
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 23473
+      "score": 23542
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 11565
+      "score": 11720
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 6998
+      "score": 7124
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6085
+      "score": 6118
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5083
+      "score": 5105
     }
   ]
 }
