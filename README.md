@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhancing ClearInstall for Modern Development
 
-Integrate public trend signals to improve the accuracy of risk assessments in ClearInstall, ensuring users are informed about potential risks before installation. Leverage machine learning for better binding.gyp command predictions and enhance user experience through a more intuitive interface.
+With the rise of new hardware like the M6 chip and advancements in AI tools, ClearInstall can be improved to better support local-first development practices and enhance security checks during package installation. This will ensure developers have a more robust tool that prepares them against potential risks before running installations.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
