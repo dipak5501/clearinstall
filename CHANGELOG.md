@@ -875,3 +875,21 @@ Signals:
 - Zagitta/gpu-unlock
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
+
+## 2026-10-28 — web-learn-2026-10-28T17
+
+Enhance ClearInstall with Risk Detection Features
+
+Integrate real-time risk detection for npm and PyPI packages, expand command expansion checks to include potential security vulnerabilities, and add GPU-related package analysis capabilities.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- deepseek-ai/DeepInfer
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames

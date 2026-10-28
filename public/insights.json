@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-28T16:01:27.406Z",
+  "updatedAt": "2026-10-28T17:08:57.222Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Risk Assessment",
-  "summary": "Integrate real-time risk assessment for npm and PyPI packages, expand support for binding.gyp command expansion, and introduce dynamic lockfile validation to improve security and reliability of installations.",
+  "headline": "Enhance ClearInstall with Risk Detection Features",
+  "summary": "Integrate real-time risk detection for npm and PyPI packages, expand command expansion checks to include potential security vulnerabilities, and add GPU-related package analysis capabilities.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 43296
+      "score": 43363
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 23772
+      "score": 23806
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 12089
+      "score": 12136
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 7338
+      "score": 7351
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6209
+      "score": 6223
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5169
+      "score": 5177
     }
   ]
 }
