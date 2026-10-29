@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-29T05:18:57.783Z",
+  "updatedAt": "2026-10-29T08:21:42.801Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Trend Signals",
-  "summary": "Leverage public trend signals to improve the security and efficiency of ClearInstall by integrating real-time risk assessments, enhancing user interface for better accessibility, and incorporating machine learning for predictive analysis.",
+  "headline": "Enhance ClearInstall with Public Trend Signals",
+  "summary": "Integrate real-time dependency analysis and risk assessment tools to improve ClearInstall's local-first lockfile and install-surface auditing, ensuring users have visibility into potential npm/PyPI risks before installation. Leverage public trend signals for enhanced security features and user insights.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 44132
+      "score": 44340
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/DeepInfer",
       "url": "https://github.com/deepseek-ai/DeepInfer",
-      "score": 24009
+      "score": 24079
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 12518
+      "score": 12630
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 7492
+      "score": 7564
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6319
+      "score": 6353
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5265
+      "score": 5280
     }
   ]
 }
