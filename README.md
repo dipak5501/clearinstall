@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Risk Assessment
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time risk assessment tools to provide users with up-to-date security and dependency information, ensuring that the latest threats are mitigated before installation. Incorporate user feedback mechanisms to continuously improve the app’s accuracy and relevance. Leverage AI-driven insights to predict potential issues based on historical data and current trends.
+Integrate real-time risk assessment for npm and PyPI packages, expand command line interface for better user interaction, and implement machine learning to predict potential issues before installation.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
