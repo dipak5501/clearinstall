@@ -1,0 +1,88 @@
+{
+  "at": "2026-10-29T17:27:29.810Z",
+  "featureId": "web-learn-2026-10-29T17",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Risk Assessment Features",
+    "summary": "Integrate real-time risk assessment tools to improve ClearInstall's capability in identifying potential issues before installations, ensuring safer and more secure local-first environments. Leverage AI-driven insights for enhanced security checks.",
+    "actions": [
+      "Implement a real-time threat detection system using signals from Gathin23/cleanyourtv to identify malicious npm/PyPI packages early in the installation process.",
+      "Utilize DeepInfer (deepseek-ai/DeepInfer) to incorporate advanced AI models for predicting and mitigating risks associated with binding.gyp command expansions d",
+      "Integrate GPU unlock features from Zagitta/gpu-unlock into ClearInstall's risk assessment tool, ensuring compatibility checks and security evaluations are perfo"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Gathin23/cleanyourtv",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "score": 45066
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/DeepInfer",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "score": 24199
+    },
+    {
+      "source": "github_search",
+      "title": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 12917
+    },
+    {
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 7713
+    },
+    {
+      "source": "github_search",
+      "title": "ly05010419/MacNativeGames",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "score": 6418
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 5353
+    },
+    {
+      "source": "github_search",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "score": 5173
+    },
+    {
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 4687
+    },
+    {
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4486
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 4468
+    },
+    {
+      "source": "github_search",
+      "title": "amosblomqvist/learnharness",
+      "url": "https://github.com/amosblomqvist/learnharness",
+      "score": 3888
+    },
+    {
+      "source": "github_search",
+      "title": "aicodeking/leanrea",
+      "url": "https://github.com/aicodeking/leanrea",
+      "score": 3573
+    }
+  ]
+}
