@@ -1145,3 +1145,21 @@ Signals:
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
 - simbasjungles/free-my-tv
+
+## 2026-10-30 — web-learn-2026-10-30T14
+
+Enhancing ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages, including potential command expansions like binding.gyp. This will help users ensure a safer local-first environment for their projects.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
+- xiaoyang111222/cn-math-taxonomy

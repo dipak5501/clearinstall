@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Risk Assessment
+**Latest:** Enhancing ClearInstall with Public Trend Signals
 
-Integrate real-time risk assessment features to detect potential issues like binding.gyp command expansion and other vulnerabilities before installation, ensuring a safer local-first environment. Enhance user experience by providing detailed insights into package dependencies and their sources.
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages, including potential command expansions like binding.gyp. This will help users ensure a safer local-first environment for their projects.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
