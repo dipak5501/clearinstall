@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-30T17:48:51.708Z",
-  "featureId": "web-learn-2026-10-30T17",
+  "at": "2026-10-30T20:51:25.484Z",
+  "featureId": "web-learn-2026-10-30T20",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Public Trend Signals",
-    "summary": "By integrating features from trending projects like cleanyourtv and gpu-unlock, ClearInstall can offer more comprehensive security checks during the installation process. This will help users ensure their local-first applications are free from risks associated with third-party dependencies.",
+    "headline": "Enhancing ClearInstall with Public Trend Signals",
+    "summary": "By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages, including those related to binding.gyp command expansion. This improvement will ensure users have a safer installation experience by addressing emerging security concerns.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 46425
+      "score": 46584
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13416
+      "score": 13449
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8026
+      "score": 8034
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6568
+      "score": 6577
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5479
+      "score": 5483
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5458
+      "score": 5469
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5283
+      "score": 5343
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5025
+      "score": 5038
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4570
+      "score": 4575
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 3904
+      "score": 3922
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 3813
+      "score": 3836
     },
     {
       "source": "github_search",
       "title": "aicodeking/leanrea",
       "url": "https://github.com/aicodeking/leanrea",
-      "score": 3729
+      "score": 3739
     }
   ]
 }

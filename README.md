@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhancing ClearInstall with Public Trend Signals
 
-By integrating features from trending projects like cleanyourtv and gpu-unlock, ClearInstall can offer more comprehensive security checks during the installation process. This will help users ensure their local-first applications are free from risks associated with third-party dependencies.
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages, including those related to binding.gyp command expansion. This improvement will ensure users have a safer installation experience by addressing emerging security concerns.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
