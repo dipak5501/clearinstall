@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Risk Assessment
 
-Integrate real-time risk assessment tools to provide up-to-date security insights, expand the audit scope to include more package managers, and implement a user-friendly interface for better accessibility.
+Integrate real-time risk assessment features to improve ClearInstall’s local-first lockfile and install-surface auditor, ensuring users are informed about potential risks before running installations. This will enhance user trust and security.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
