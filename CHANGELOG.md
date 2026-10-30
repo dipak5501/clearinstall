@@ -1163,3 +1163,21 @@ Signals:
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
 - xiaoyang111222/cn-math-taxonomy
+
+## 2026-10-30 — web-learn-2026-10-30T16
+
+Enhance ClearInstall with Real-Time Risk Detection
+
+Integrate real-time risk detection for binding.gyp command expansion and other potential vulnerabilities, improve user interface for better visibility of install risks, and expand support for additional package managers like Go to cover more development ecosystems.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
+- xiaoyang111222/cn-math-taxonomy
