@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Risk Detection
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time risk detection for binding.gyp command expansion and other potential vulnerabilities, improve user interface for better visibility of install risks, and expand support for additional package managers like Go to cover more development ecosystems.
+By integrating features from trending projects like cleanyourtv and gpu-unlock, ClearInstall can offer more comprehensive security checks during the installation process. This will help users ensure their local-first applications are free from risks associated with third-party dependencies.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

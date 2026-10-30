@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-30T16:01:04.889Z",
+  "updatedAt": "2026-10-30T17:48:51.708Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Risk Detection",
-  "summary": "Integrate real-time risk detection for binding.gyp command expansion and other potential vulnerabilities, improve user interface for better visibility of install risks, and expand support for additional package managers like Go to cover more development ecosystems.",
+  "headline": "Enhance ClearInstall with Public Trend Signals",
+  "summary": "By integrating features from trending projects like cleanyourtv and gpu-unlock, ClearInstall can offer more comprehensive security checks during the installation process. This will help users ensure their local-first applications are free from risks associated with third-party dependencies.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Gathin23/cleanyourtv",
       "url": "https://github.com/Gathin23/cleanyourtv",
-      "score": 46320
+      "score": 46425
     },
     {
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13390
+      "score": 13416
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8013
+      "score": 8026
     },
     {
       "source": "github_search",
       "title": "ly05010419/MacNativeGames",
       "url": "https://github.com/ly05010419/MacNativeGames",
-      "score": 6559
+      "score": 6568
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5473
+      "score": 5479
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5450
+      "score": 5458
     }
   ]
 }

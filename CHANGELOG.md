@@ -1181,3 +1181,21 @@ Signals:
 - pengchujin/aerial-tv
 - ly05010419/MacNativeGames
 - xiaoyang111222/cn-math-taxonomy
+
+## 2026-10-30 — web-learn-2026-10-30T17
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating features from trending projects like cleanyourtv and gpu-unlock, ClearInstall can offer more comprehensive security checks during the installation process. This will help users ensure their local-first applications are free from risks associated with third-party dependencies.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Gathin23/cleanyourtv
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- ly05010419/MacNativeGames
+- xiaoyang111222/cn-math-taxonomy
