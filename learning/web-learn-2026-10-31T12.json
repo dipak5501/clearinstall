@@ -1,0 +1,88 @@
+{
+  "at": "2026-10-31T12:04:20.322Z",
+  "featureId": "web-learn-2026-10-31T12",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Real-Time Security Insights",
+    "summary": "Integrate real-time security insights from Zagitta/gpu-unlock to detect potential vulnerabilities in npm and PyPI packages. Incorporate video analysis tools from aerial-tv for enhanced package review processes. Implement a taxonomy system inspired by cn-math-taxonomy to categorize and manage dependencies more effectively.",
+    "actions": [
+      "Integrate the security detection capabilities of Zagitta/gpu-unlock into ClearInstall to provide real-time alerts on potential vulnerabilities in npm and PyPI p",
+      "Leverage aerial-tv's video analysis tools to create a dynamic, visual package review process within ClearInstall, allowing users to better understand the impact",
+      "Adopt a taxonomy system similar to cn-math-taxonomy to categorize and manage dependencies in ClearInstall, making it easier for users to navigate and audit thei"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Zagitta/gpu-unlock",
+      "url": "https://github.com/Zagitta/gpu-unlock",
+      "score": 13629
+    },
+    {
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 8217
+    },
+    {
+      "source": "github_search",
+      "title": "xiaoyang111222/cn-math-taxonomy",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "score": 5586
+    },
+    {
+      "source": "github_search",
+      "title": "simbasjungles/free-my-tv",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "score": 5523
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 5519
+    },
+    {
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5259
+    },
+    {
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4605
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 4393
+    },
+    {
+      "source": "github_search",
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "score": 3942
+    },
+    {
+      "source": "github_search",
+      "title": "Jakeschincariol/day-trader-skill",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "score": 3804
+    },
+    {
+      "source": "github_search",
+      "title": "designfuchen/word-atlas",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "score": 3479
+    },
+    {
+      "source": "github_search",
+      "title": "JoasASantos/REA-Prompts",
+      "url": "https://github.com/JoasASantos/REA-Prompts",
+      "score": 3325
+    }
+  ]
+}

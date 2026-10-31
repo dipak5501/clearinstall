@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Security Insights
 
-Integrate real-time security insights from Zagitta/gpu-unlock to monitor potential vulnerabilities in npm and PyPI packages. Incorporate visual analytics from aerial-tv for better risk assessment. Utilize cn-math-taxonomy for more precise dependency analysis.
+Integrate real-time security insights from Zagitta/gpu-unlock to detect potential vulnerabilities in npm and PyPI packages. Incorporate video analysis tools from aerial-tv for enhanced package review processes. Implement a taxonomy system inspired by cn-math-taxonomy to categorize and manage dependencies more effectively.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
