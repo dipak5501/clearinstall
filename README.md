@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhancing ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Real-Time Risk Assessment
 
-By integrating public trend signals, ClearInstall can improve its risk assessment capabilities and user experience. This will help users make informed decisions about local-first installations before running them.
+Integrate real-time risk assessment tools to provide users with up-to-date security information, improve user trust, and ensure compliance with the latest industry standards. Implement GPU unlock functionalities for enhanced performance monitoring, and incorporate Zero-Breach-Toolkit features to detect potential vulnerabilities proactively.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
