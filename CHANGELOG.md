@@ -1325,3 +1325,21 @@ Signals:
 - xiaoyang111222/cn-math-taxonomy
 - unclebob/ub-mode
 - simbasjungles/free-my-tv
+
+## 2026-10-31 — web-learn-2026-10-31T16
+
+Enhance ClearInstall with Real-Time Dependency Risk Detection
+
+Integrate real-time dependency risk detection for npm and PyPI packages, expand support for binding.gyp command expansion checks, and introduce a user-friendly interface to highlight potential security vulnerabilities during the installation process.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Zagitta/gpu-unlock
+- pengchujin/aerial-tv
+- xiaoyang111222/cn-math-taxonomy
+- unclebob/ub-mode
+- simbasjungles/free-my-tv

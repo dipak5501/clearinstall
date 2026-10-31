@@ -1,10 +1,10 @@
 {
-  "at": "2026-10-31T15:07:09.047Z",
-  "featureId": "web-learn-2026-10-31T15",
+  "at": "2026-10-31T16:01:30.952Z",
+  "featureId": "web-learn-2026-10-31T16",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Real-Time Risk Assessment",
-    "summary": "Integrate public trend signals to improve ClearInstall by adding real-time risk assessment features, enhancing user notifications, and incorporating AI-driven binding.gyp command checks.",
+    "headline": "Enhance ClearInstall with Real-Time Dependency Risk Detection",
+    "summary": "Integrate real-time dependency risk detection for npm and PyPI packages, expand support for binding.gyp command expansion checks, and introduce a user-friendly interface to highlight potential security vulnerabilities during the installation process.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13700
+      "score": 13716
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8266
+      "score": 8285
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5617
+      "score": 5626
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5552
+      "score": 5567
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5540
+      "score": 5543
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5305
+      "score": 5317
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4614
+      "score": 4617
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4520
+      "score": 4558
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 3959
+      "score": 3967
     },
     {
       "source": "github_search",
       "title": "Jakeschincariol/day-trader-skill",
       "url": "https://github.com/Jakeschincariol/day-trader-skill",
-      "score": 3854
+      "score": 3866
     },
     {
       "source": "github_search",
       "title": "designfuchen/word-atlas",
       "url": "https://github.com/designfuchen/word-atlas",
-      "score": 3510
+      "score": 3523
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 3352
+      "score": 3410
     }
   ]
 }
