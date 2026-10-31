@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Risk Assessment
+**Latest:** Enhance ClearInstall with Real-Time Security Insights
 
-Integrate real-time risk assessment features to monitor and alert users about potential security threats during npm or PyPI installations, including binding.gyp command expansions. Leverage GPU unlock technologies for faster lockfile analysis and improve user interface for better engagement.
+Integrate real-time security insights from Zagitta/gpu-unlock to monitor potential vulnerabilities in npm and PyPI packages. Incorporate visual analytics from aerial-tv for better risk assessment. Utilize cn-math-taxonomy for more precise dependency analysis.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
