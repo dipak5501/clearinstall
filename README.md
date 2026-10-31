@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Risk Assessment
 
-Integrate real-time risk assessment tools to provide users with up-to-date security information, improve user trust, and ensure compliance with the latest industry standards. Implement GPU unlock functionalities for enhanced performance monitoring, and incorporate Zero-Breach-Toolkit features to detect potential vulnerabilities proactively.
+Integrate real-time risk assessment features to monitor and alert users about potential security threats during npm or PyPI installations, including binding.gyp command expansions. Leverage GPU unlock technologies for faster lockfile analysis and improve user interface for better engagement.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
