@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-10-31T16:01:30.952Z",
+  "updatedAt": "2026-10-31T18:11:12.722Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Detection",
-  "summary": "Integrate real-time dependency risk detection for npm and PyPI packages, expand support for binding.gyp command expansion checks, and introduce a user-friendly interface to highlight potential security vulnerabilities during the installation process.",
+  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
+  "summary": "Integrate real-time dependency risk analysis to provide users with up-to-date security insights, and incorporate GPU unlock features for faster installation processes. Add support for zero-trust breach detection tools to ensure secure installations.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Zagitta/gpu-unlock",
       "url": "https://github.com/Zagitta/gpu-unlock",
-      "score": 13716
+      "score": 13754
     },
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8285
+      "score": 8304
     },
     {
       "source": "github_search",
       "title": "xiaoyang111222/cn-math-taxonomy",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "score": 5626
+      "score": 5638
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5567
+      "score": 5623
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5543
+      "score": 5553
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5317
+      "score": 5343
     }
   ]
 }
