@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Risk Assessment
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Detection
 
-Integrate real-time risk assessment features to identify potential vulnerabilities in local-first lockfiles, ensuring secure and transparent package installations. Enhance the user interface for better accessibility and ease of use.
+Integrate real-time dependency risk detection to provide users with up-to-date security insights, and incorporate AI-driven binding.gyp command analysis for improved safety. Offer a comprehensive audit report that highlights potential risks before installation, ensuring secure local-first development environments.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
