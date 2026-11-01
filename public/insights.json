@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-01T03:20:27.730Z",
+  "updatedAt": "2026-11-01T06:23:26.649Z",
   "app": "ClearInstall",
-  "headline": "Enhancing ClearInstall with Public Trend Signals",
-  "summary": "By integrating real-time public trends, ClearInstall can better identify and mitigate risks associated with npm and PyPI package installations. This will enhance user trust and security.",
+  "headline": "Enhance ClearInstall for Real-time Dependency Risk Assessment",
+  "summary": "Utilize public trend signals to improve ClearInstall by integrating real-time dependency risk assessment, enhancing the audit process with AI-driven insights, and streamlining user interface for better visibility of binding.gyp command expansions.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8359
+      "score": 8404
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 5858
+      "score": 5906
     },
     {
       "source": "github_search",
       "title": "simbasjungles/free-my-tv",
       "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5582
+      "score": 5587
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5400
+      "score": 5441
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 4745
+      "score": 4845
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4629
+      "score": 4632
     }
   ]
 }
