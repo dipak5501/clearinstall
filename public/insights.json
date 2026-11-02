@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-01T21:38:18.698Z",
+  "updatedAt": "2026-11-02T00:41:43.027Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
-  "summary": "Integrate real-time dependency analysis to identify potential risks early, improve user experience by providing detailed insights into package dependencies, and enhance security measures through advanced threat detection.",
+  "headline": "Enhance ClearInstall with Real-Time Risk Detection",
+  "summary": "Integrate real-time risk detection features to improve the security of npm and PyPI package installations, ensuring that users are informed about potential risks before running installs. Leverage AI-driven analysis for better accuracy and speed in identifying vulnerabilities.",
   "actions": [
-    "[object Object]",
-    "[object Object]",
-    "[object Object]"
+    "Implement AI-based vulnerability scanning during the installation process to detect potential risks such as binding.gyp command expansion issues.",
+    "Develop a real-time risk dashboard within ClearInstall that provides users with detailed insights into the security of their package installations, including hi",
+    "Integrate machine learning models to predict and flag potentially harmful packages based on public trend signals from repositories like aerial-tv and dsh-Go."
   ],
   "signals": [
     {
       "source": "github_search",
       "title": "pengchujin/aerial-tv",
       "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8659
+      "score": 8674
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 6958
+      "score": 7281
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6205
-    },
-    {
-      "source": "github_search",
-      "title": "simbasjungles/free-my-tv",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "score": 5661
+      "score": 6242
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5622
+      "score": 5631
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5123
+      "score": 5136
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 4866
     }
   ]
 }
