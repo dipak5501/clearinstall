@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-02T00:41:43.027Z",
+  "updatedAt": "2026-11-02T03:45:17.465Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Risk Detection",
-  "summary": "Integrate real-time risk detection features to improve the security of npm and PyPI package installations, ensuring that users are informed about potential risks before running installs. Leverage AI-driven analysis for better accuracy and speed in identifying vulnerabilities.",
+  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Assessment",
+  "summary": "Integrate real-time dependency risk assessment to provide users with up-to-date security insights, and incorporate machine learning models for predicting potential vulnerabilities. Optimize the user interface for better readability and ease of use.",
   "actions": [
-    "Implement AI-based vulnerability scanning during the installation process to detect potential risks such as binding.gyp command expansion issues.",
-    "Develop a real-time risk dashboard within ClearInstall that provides users with detailed insights into the security of their package installations, including hi",
-    "Integrate machine learning models to predict and flag potentially harmful packages based on public trend signals from repositories like aerial-tv and dsh-Go."
+    "[object Object]",
+    "[object Object]",
+    "[object Object]"
   ],
   "signals": [
     {
       "source": "github_search",
-      "title": "pengchujin/aerial-tv",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "score": 8674
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 8850
     },
     {
       "source": "github_search",
-      "title": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 7281
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 8737
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6242
+      "score": 6306
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 5631
+      "score": 5697
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5136
+      "score": 5214
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 4866
+      "score": 5009
     }
   ]
 }
