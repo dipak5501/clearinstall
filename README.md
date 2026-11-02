@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Dependency Risk Assessment
 
-Integrate real-time dependency risk assessment to provide users with up-to-date security insights, and incorporate machine learning models for predicting potential vulnerabilities. Optimize the user interface for better readability and ease of use.
+Integrate real-time dependency risk assessment to provide up-to-date security insights, expand support for additional package managers, and incorporate user feedback mechanisms to continuously improve the tool's accuracy.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
