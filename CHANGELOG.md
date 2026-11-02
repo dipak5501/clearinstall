@@ -1595,3 +1595,21 @@ Signals:
 - unclebob/ub-mode
 - rddmwmddr/android-ad-cleaner
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-02 — web-learn-2026-11-02T12
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages, including binding.gyp command expansion. This will enhance user trust and security.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- pengchujin/aerial-tv
+- unclebob/ub-mode
+- rddmwmddr/android-ad-cleaner
+- heydamir/unslop
