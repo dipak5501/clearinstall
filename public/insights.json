@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-02T19:03:42.827Z",
+  "updatedAt": "2026-11-02T22:07:43.505Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Insights",
-  "summary": "Utilize public trend signals to improve ClearInstall’s dependency analysis, ensuring users are informed about potential risks associated with new PostgreSQL versions and other critical dependencies before installation. Integrate real-time updates for binding.gyp command expansions and enhance the user interface to reflect these changes seamlessly.",
+  "headline": "Enhance ClearInstall with Trend Signals",
+  "summary": "Integrate real-time risk assessment features, expand support for additional package managers, and improve user interface for better visibility of install-time risks.",
   "actions": [
-    "Integrate real-time dependency alerts based on signals like Postgres 19 delays, informing users of upcoming changes that might affect their projects.",
-    "Update the ClearInstall UI to highlight any dependencies that are currently under development or have known issues, such as binding.gyp command expansions.",
-    "Implement a feature that checks for and warns about potential security risks associated with new versions of dependencies, using signals like Anthropic's intern"
+    "[object Object]",
+    "[object Object]",
+    "[object Object]"
   ],
   "signals": [
     {
-      "source": "hackernews",
-      "title": "WTF Ubuntu?",
-      "url": "https://chalmovsky.com/posts/wtf-ubuntu",
-      "score": 881
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 12917
     },
     {
-      "source": "hackernews",
-      "title": "Postgres 19 is late because so many more bugs are being found now",
-      "url": "http://rhaas.blogspot.com/2026/10/postgres-19-is-late-and-its-ais-fault.html",
-      "score": 787
+      "source": "github_search",
+      "title": "pengchujin/aerial-tv",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "score": 9000
     },
     {
-      "source": "hackernews",
-      "title": "Show HN: Subvocal – Talk to your computer without making noise",
-      "url": "https://subvocal.company/",
-      "score": 218
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6530
     },
     {
-      "source": "hackernews",
-      "title": "If you love a website, back it up",
-      "url": "https://blog.mistys-internet.website/post/2026/10/29/if-you-love-a-website-back-it-up/",
-      "score": 201
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 6141
     },
     {
-      "source": "hackernews",
-      "title": "Anthropic's internal AI use, at retail prices, now exceeds its employee pay",
-      "url": "https://www.businessinsider.com/anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens-2026-11",
-      "score": 149
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 5891
     },
     {
-      "source": "hackernews",
-      "title": "Moving our warehouse off DuckDB",
-      "url": "https://posthog.com/blog/moving-off-duckdb",
-      "score": 111
+      "source": "github_search",
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 5797
     }
   ]
 }

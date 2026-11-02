@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Dependency Insights
+**Latest:** Enhance ClearInstall with Trend Signals
 
-Utilize public trend signals to improve ClearInstall’s dependency analysis, ensuring users are informed about potential risks associated with new PostgreSQL versions and other critical dependencies before installation. Integrate real-time updates for binding.gyp command expansions and enhance the user interface to reflect these changes seamlessly.
+Integrate real-time risk assessment features, expand support for additional package managers, and improve user interface for better visibility of install-time risks.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
