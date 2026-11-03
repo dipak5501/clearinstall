@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with AI-driven Risk Assessment
+**Latest:** Enhance ClearInstall with Cutting-Edge Features
 
-Integrate advanced machine learning models to predict and mitigate risks associated with npm/PyPI packages, including potential vulnerabilities in binding.gyp files. Leverage natural language processing (NLP) for improved documentation analysis and user guidance.
+Integrate real-time dependency analysis and risk assessment tools to improve ClearInstall's local-first lockfile auditing. Leverage AI-driven insights for enhanced security checks, and incorporate advanced binding.gyp command expansion visibility.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
