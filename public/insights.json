@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T10:22:41.799Z",
+  "updatedAt": "2026-11-03T13:26:43.652Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
-  "summary": "Integrate advanced dependency analysis tools to provide real-time risk assessments, improve user interface for better readability, and implement automated binding.gyp command expansion checks.",
+  "headline": "Enhance ClearInstall with Public Trend Signals",
+  "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities and user experience. This will help users make informed decisions before running installations, ensuring a safer development environment.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 15271
+      "score": 15702
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 6794
-    },
-    {
-      "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 6686
+      "score": 6981
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 6519
+      "score": 6824
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6713
+    },
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 6385
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6003
-    },
-    {
-      "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 5810
+      "score": 6026
     }
   ]
 }
