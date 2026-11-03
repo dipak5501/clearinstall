@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
 
-Integrate real-time dependency risk analysis to provide users with up-to-date security insights. Leverage AI-driven scanning for potential vulnerabilities in npm and PyPI packages, including binding.gyp command expansions, to ensure a safer installation process.
+Integrate advanced dependency analysis tools to provide real-time risk assessments, improve user interface for better readability, and implement automated binding.gyp command expansion checks.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
