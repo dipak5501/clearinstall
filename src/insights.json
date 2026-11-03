@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-03T16:30:22.048Z",
+  "updatedAt": "2026-11-03T19:33:14.090Z",
   "app": "ClearInstall",
-  "headline": "Enhancing ClearInstall with AI-driven Risk Analysis",
-  "summary": "By integrating public trend signals into ClearInstall, we can improve its risk assessment capabilities and make it more efficient. This will help users better understand potential issues before installation, ensuring a smoother development process.",
+  "headline": "Enhance ClearInstall with Real-Time Risk Assessment",
+  "summary": "Integrate real-time risk assessment tools to provide up-to-date security insights, expand the audit scope to include Go bindings, and leverage AI for predictive analysis of potential vulnerabilities.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -10,40 +10,40 @@
   ],
   "signals": [
     {
-      "source": "hackernews",
-      "title": "The 'Astra can read and write weights to improve Qwen' post is misleading",
-      "url": "https://honnibal.dev/blog/astra-read-write-misleading",
-      "score": 584
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 16393
     },
     {
-      "source": "hackernews",
-      "title": "Could a modern chess engine on a Pentium have defeated Kasparov in 1996?",
-      "url": "https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html",
-      "score": 237
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 7710
     },
     {
-      "source": "hackernews",
-      "title": "Nvidia – open-source auto-ontology",
-      "url": "https://github.com/NVIDIA/auto-ontology",
-      "score": 230
+      "source": "github_search",
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 7326
     },
     {
-      "source": "hackernews",
-      "title": "Fujifilm to boost tape production 5x as AI fuels archiving demand",
-      "url": "https://arstechnica.com/gadgets/2026/10/fujifilm-to-boost-tape-production-5x-as-ai-fuels-archiving-demand/",
-      "score": 125
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 7320
     },
     {
-      "source": "hackernews",
-      "title": "Katamari Damacy but it's The Met collection",
-      "url": "https://katamari.vaguespac.es/",
-      "score": 104
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 6758
     },
     {
-      "source": "hackernews",
-      "title": "AI is destroying my CS degree",
-      "url": "https://lordtoots.bearblog.dev/ai-is-destroying-my-cs-degree/",
-      "score": 73
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 6061
     }
   ]
 }
