@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-04T01:42:23.382Z",
+  "updatedAt": "2026-11-04T04:46:28.983Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
-  "summary": "Integrate real-time dependency risk analysis to provide immediate feedback on potential vulnerabilities, improve user trust, and ensure secure installations. Leverage AI-driven insights to detect and mitigate risks associated with npm/PyPI packages, including binding.gyp command expansions.",
+  "headline": "Enhance ClearInstall with Public Trend Signals",
+  "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities and user experience. This will help users make informed decisions about package installations before running them locally.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 16868
+      "score": 17305
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 8515
+      "score": 8966
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 7593
+      "score": 8000
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 7569
+      "score": 7675
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6796
+      "score": 6823
     },
     {
       "source": "github_search",
-      "title": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6092
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 6173
     }
   ]
 }
