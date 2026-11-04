@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-04T17:04:42.388Z",
+  "updatedAt": "2026-11-04T20:09:09.748Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
-  "summary": "Integrate real-time dependency analysis to detect potential risks early in the development process, improve user experience by providing instant feedback on package vulnerabilities, and optimize installation processes for faster deployment times.",
+  "summary": "Integrate real-time dependency analysis to detect potential risks early, improve user experience by providing instant feedback during the installation process, and expand support for additional package managers like Go.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 18406
+      "score": 18469
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 10708
+      "score": 11136
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 9231
+      "score": 9341
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 8327
+      "score": 8484
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6939
+      "score": 6960
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 6553
+      "score": 6588
     }
   ]
 }
