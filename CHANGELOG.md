@@ -1901,3 +1901,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - unclebob/ub-mode
+
+## 2026-11-04 — web-learn-2026-11-04T14
+
+Enhancing ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages, especially concerning binding.gyp command expansion. This improvement will enhance user trust and security.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- ccch1mneyyy/dsh-Go
+- heydamir/unslop
+- unclebob/ub-mode
