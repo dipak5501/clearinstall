@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-04T20:09:09.748Z",
-  "featureId": "web-learn-2026-11-04T20",
+  "at": "2026-11-04T23:12:52.856Z",
+  "featureId": "web-learn-2026-11-04T23",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
-    "summary": "Integrate real-time dependency analysis to detect potential risks early, improve user experience by providing instant feedback during the installation process, and expand support for additional package managers like Go.",
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "Integrate real-time risk assessment for npm and PyPI packages, expand support for Go bindings, and introduce GPU acceleration for faster analysis.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 18469
+      "score": 18527
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 11136
+      "score": 11531
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 9341
+      "score": 9389
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 8484
+      "score": 8631
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 6960
+      "score": 6979
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 6588
+      "score": 6606
     },
     {
       "source": "github_search",
       "title": "rddmwmddr/android-ad-cleaner",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6300
+      "score": 6305
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 5938
+      "score": 5942
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 4800
+      "score": 4833
     },
     {
       "source": "github_search",
       "title": "JustAResearcher/gpu-unlock-ada",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
-      "score": 4765
+      "score": 4770
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 4652
+      "score": 4687
     },
     {
       "source": "github_search",
       "title": "interplains/Zero-Breach-Toolkit",
       "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4413
+      "score": 4423
     }
   ]
 }
