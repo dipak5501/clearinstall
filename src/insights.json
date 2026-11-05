@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-05T05:22:42.133Z",
+  "updatedAt": "2026-11-05T08:27:33.491Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities and user experience. This will help users make informed decisions about package installations before running them.",
+  "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
+  "summary": "Integrate real-time dependency analysis to detect potential vulnerabilities and risks during the installation process, improve user trust, and ensure a secure development environment. Leverage AI-driven insights for better risk assessment.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 18800
+      "score": 19009
     },
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 12669
+      "score": 13238
     },
     {
       "source": "github_search",
       "title": "ccch1mneyyy/dsh-Go",
       "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 10032
+      "score": 10371
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 8845
+      "score": 8984
     },
     {
       "source": "github_search",
       "title": "unclebob/ub-mode",
       "url": "https://github.com/unclebob/ub-mode",
-      "score": 7008
+      "score": 7024
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 6765
+      "score": 6852
     }
   ]
 }
