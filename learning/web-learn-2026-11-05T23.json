@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-05T23:51:08.260Z",
+  "featureId": "web-learn-2026-11-05T23",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Trend Signals",
+    "summary": "Integrate real-time risk assessment tools and user experience improvements based on recent trends to make ClearInstall more effective in identifying potential risks during npm/PyPI installations. Leverage AI-driven insights for better binding.gyp command expansion detection.",
+    "actions": [
+      "Implement AI-driven risk analysis: Integrate machine learning models from projects like deepseek-ai/dsh-superagent-prototype to predict and flag potential secur",
+      "Update UI/UX design: Incorporate elements inspired by storytold/craft-anything to create a more intuitive user interface that enhances the clarity of risk infor",
+      "Expand command expansion detection: Utilize techniques from ccch1mneyyy/dsh-Go to improve binding.gyp command expansion detection, ensuring all potential risks "
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 19469
+    },
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 14916
+    },
+    {
+      "source": "github_search",
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 11410
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 9758
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 7097
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 7078
+    },
+    {
+      "source": "github_search",
+      "title": "rddmwmddr/android-ad-cleaner",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "score": 6549
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 6078
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 5250
+    },
+    {
+      "source": "github_search",
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 5144
+    },
+    {
+      "source": "github_search",
+      "title": "JustAResearcher/gpu-unlock-ada",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "score": 4791
+    },
+    {
+      "source": "github_search",
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "score": 4479
+    }
+  ]
+}
