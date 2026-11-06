@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Trend Signals
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time risk assessment tools and user experience improvements based on recent trends to make ClearInstall more effective in identifying potential risks during npm/PyPI installations. Leverage AI-driven insights for better binding.gyp command expansion detection.
+By integrating features from deepseek-ai/dsh-superagent-prototype, storytold/craft-anything, and ccch1mneyyy/dsh-Go, ClearInstall can improve its risk assessment capabilities and user experience, making it more robust and versatile for local-first development projects.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
