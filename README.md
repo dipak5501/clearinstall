@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
 
-By integrating features from deepseek-ai/dsh-superagent-prototype, storytold/craft-anything, and ccch1mneyyy/dsh-Go, ClearInstall can improve its risk assessment capabilities and user experience, making it more robust and versatile for local-first development projects.
+Integrate real-time dependency risk analysis to provide users with up-to-date security insights. Leverage AI-driven scanning for potential vulnerabilities in npm and PyPI packages, including binding.gyp command expansions, to ensure a safer installation process.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
