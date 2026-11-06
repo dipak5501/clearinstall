@@ -1,88 +1,88 @@
 {
-  "at": "2026-11-06T12:11:23.219Z",
-  "featureId": "web-learn-2026-11-06T12",
+  "at": "2026-11-06T15:16:31.387Z",
+  "featureId": "web-learn-2026-11-06T15",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Real-Time Risk Assessment",
-    "summary": "Integrate real-time risk assessment tools to improve the accuracy of ClearInstall’s lockfile and install-surface auditing, ensuring users are notified of potential risks before installation. Leverage machine learning models for predictive analysis of package dependencies and security threats.",
+    "headline": "Enhance ClearInstall Security and Performance",
+    "summary": "Utilize public trend signals to improve security by mitigating risks associated with command expansion, enhance performance through faster UI and runtime processes, and ensure compatibility across diverse operating systems to prevent vulnerabilities like those seen in MS Paint.",
     "actions": [
-      "Implement a real-time risk scoring system using machine learning algorithms to predict potential vulnerabilities in npm/PyPI packages.",
-      "Integrate a dynamic binding.gyp command expansion checker that alerts users to any risky or potentially harmful command expansions during the installation proce",
-      "Develop a feature that cross-references package dependencies with known security databases and threat intelligence feeds to provide real-time updates on package"
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
     ]
   },
   "signals": [
     {
-      "source": "github_search",
-      "title": "deepseek-ai/dsh-superagent-prototype",
-      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 19996
+      "source": "hackernews",
+      "title": "sshole",
+      "url": "https://sshhole.com",
+      "score": 2832
     },
     {
-      "source": "github_search",
-      "title": "storytold/craft-anything",
-      "url": "https://github.com/storytold/craft-anything",
-      "score": 16606
+      "source": "hackernews",
+      "title": "Claude Code sends your email address to websites",
+      "url": "https://github.com/anthropics/claude-code/issues/107757",
+      "score": 1383
     },
     {
-      "source": "github_search",
-      "title": "ccch1mneyyy/dsh-Go",
-      "url": "https://github.com/ccch1mneyyy/dsh-Go",
-      "score": 12462
+      "source": "hackernews",
+      "title": "MS Paint Remote Code Execution Vulnerability",
+      "url": "https://www.cve.org/CVERecord?id=CVE-2026-83844",
+      "score": 628
     },
     {
-      "source": "github_search",
-      "title": "heydamir/unslop",
-      "url": "https://github.com/heydamir/unslop",
-      "score": 10355
+      "source": "hackernews",
+      "title": "Blender's UI and Runtime: Much Faster Than GPUI",
+      "url": "https://github.com/ppmpreetham/BUI",
+      "score": 440
     },
     {
-      "source": "github_search",
-      "title": "wangzan101/Mika",
-      "url": "https://github.com/wangzan101/Mika",
-      "score": 7307
+      "source": "hackernews",
+      "title": "Britain to make salary disclosure in job ads mandatory",
+      "url": "https://www.reuters.com/business/world-at-work/britain-make-salary-disclosure-job-ads-mandatory-2026-11-05/",
+      "score": 425
     },
     {
-      "source": "github_search",
-      "title": "unclebob/ub-mode",
-      "url": "https://github.com/unclebob/ub-mode",
-      "score": 7174
+      "source": "hackernews",
+      "title": "Dutch 'idealist' bank ASN blocks non-Google Android, including GrapheneOS",
+      "url": "https://github.com/PrivSec-dev/banking-apps-compat-report/issues/105",
+      "score": 415
     },
     {
-      "source": "github_search",
-      "title": "rddmwmddr/android-ad-cleaner",
-      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
-      "score": 6658
+      "source": "hackernews",
+      "title": "The Hackintosh Reborn",
+      "url": "https://www.naut.ca/blog/2026/11/05/the-hackintosh-reborn-with-ai/",
+      "score": 366
     },
     {
-      "source": "github_search",
-      "title": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6199
+      "source": "hackernews",
+      "title": "Pwn.college",
+      "url": "https://pwn.college/",
+      "score": 233
     },
     {
-      "source": "github_search",
-      "title": "patch-gg/pixelfx",
-      "url": "https://github.com/patch-gg/pixelfx",
-      "score": 5475
+      "source": "hackernews",
+      "title": "From Linux to Wikipedia: How Volunteers Build the Internet",
+      "url": "https://thereader.mitpress.mit.edu/from-linux-to-wikipedia-how-volunteers-build-the-internet/",
+      "score": 193
     },
     {
-      "source": "github_search",
-      "title": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5269
+      "source": "hackernews",
+      "title": "Kugelblitz – Mac-Native Google Earth Alternative",
+      "url": "https://apps.metaebene.me/en/kugelblitz",
+      "score": 168
     },
     {
-      "source": "github_search",
-      "title": "Djihads80/Eglantine",
-      "url": "https://github.com/Djihads80/Eglantine",
-      "score": 4645
+      "source": "hackernews",
+      "title": "Multiplayer tanks that demolish real buildings from OpenStreetMap",
+      "url": "https://worldstrike.fun/",
+      "score": 117
     },
     {
-      "source": "github_search",
-      "title": "interplains/Zero-Breach-Toolkit",
-      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
-      "score": 4499
+      "source": "hackernews",
+      "title": "Nvidia Kubernetes Engine (NVKE)",
+      "url": "https://github.com/dsx-ai-factory/nvke",
+      "score": 108
     }
   ]
 }

@@ -2189,3 +2189,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-06 — web-learn-2026-11-06T15
+
+Enhance ClearInstall Security and Performance
+
+Utilize public trend signals to improve security by mitigating risks associated with command expansion, enhance performance through faster UI and runtime processes, and ensure compatibility across diverse operating systems to prevent vulnerabilities like those seen in MS Paint.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- sshole
+- Claude Code sends your email address to websites
+- MS Paint Remote Code Execution Vulnerability
+- Blender's UI and Runtime: Much Faster Than GPUI
+- Britain to make salary disclosure in job ads mandatory
