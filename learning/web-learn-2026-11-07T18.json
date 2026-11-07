@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-07T18:56:24.001Z",
+  "featureId": "web-learn-2026-11-07T18",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities and user experience. This will help users make informed decisions about dependencies before installation.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 20764
+    },
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 20233
+    },
+    {
+      "source": "github_search",
+      "title": "ccch1mneyyy/dsh-Go",
+      "url": "https://github.com/ccch1mneyyy/dsh-Go",
+      "score": 14208
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 11253
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 7576
+    },
+    {
+      "source": "github_search",
+      "title": "unclebob/ub-mode",
+      "url": "https://github.com/unclebob/ub-mode",
+      "score": 7245
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 6360
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 5799
+    },
+    {
+      "source": "github_search",
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 5628
+    },
+    {
+      "source": "github_search",
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 5152
+    },
+    {
+      "source": "github_search",
+      "title": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "score": 5148
+    },
+    {
+      "source": "github_search",
+      "title": "interplains/Zero-Breach-Toolkit",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "score": 4546
+    }
+  ]
+}

@@ -2351,3 +2351,21 @@ Signals:
 - ccch1mneyyy/dsh-Go
 - heydamir/unslop
 - wangzan101/Mika
+
+## 2026-11-07 — web-learn-2026-11-07T18
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can improve its risk assessment capabilities and user experience. This will help users make informed decisions about dependencies before installation.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- deepseek-ai/dsh-superagent-prototype
+- storytold/craft-anything
+- ccch1mneyyy/dsh-Go
+- heydamir/unslop
+- wangzan101/Mika
