@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with AI-driven Risk Assessment
 
-Integrate machine learning models to predict and mitigate risks associated with npm/PyPI packages, including binding.gyp command expansion. Leverage natural language processing for improved documentation parsing and user-friendly risk explanations.
+Integrate machine learning models to predict potential risks in npm and PyPI packages, including command expansion issues. Utilize natural language processing for better package description understanding and automated binding.gyp file analysis.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
