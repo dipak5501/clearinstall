@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-08T01:05:58.445Z",
+  "featureId": "web-learn-2026-11-08T01",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with AI Risk Assessment",
+    "summary": "Integrate advanced risk assessment features using AI to provide deeper insights into potential vulnerabilities and risks during npm/PyPI installations. Leverage machine learning models for better prediction of binding.gyp command expansions, enhancing user security and confidence.",
+    "actions": [
+      "Implement an AI-driven risk scoring system that evaluates the safety and reliability of packages based on public data and historical usage patterns.",
+      "Develop a predictive model to anticipate potential issues with binding.gyp commands, providing users with real-time alerts and suggestions for safer alternative",
+      "Utilize natural language processing (NLP) techniques to analyze package descriptions and community feedback, offering more accurate risk assessments and recomme"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 20823
+    },
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 20640
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 11380
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 7611
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 6372
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 5837
+    },
+    {
+      "source": "github_search",
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 5689
+    },
+    {
+      "source": "github_search",
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 5642
+    },
+    {
+      "source": "github_search",
+      "title": "Djihads80/Eglantine",
+      "url": "https://github.com/Djihads80/Eglantine",
+      "score": 5211
+    },
+    {
+      "source": "github_search",
+      "title": "BryceYuuu/RUN",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "score": 4183
+    },
+    {
+      "source": "github_search",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 3960
+    },
+    {
+      "source": "github_search",
+      "title": "JuneYaooo/rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "score": 3688
+    }
+  ]
+}
