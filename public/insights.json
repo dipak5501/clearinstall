@@ -1,11 +1,9 @@
 {
-  "updatedAt": "2026-11-08T07:15:52.163Z",
+  "updatedAt": "2026-11-08T10:21:09.782Z",
   "app": "ClearInstall",
-  "headline": "Enhancing ClearInstall with Public Trend Signals",
-  "summary": "By integrating public trend signals, ClearInstall can offer more comprehensive security and risk assessment features. This will help users make informed decisions before running installations, ensuring a safer development environment.",
+  "headline": "Enhance ClearInstall with AI-driven Risk Analysis",
+  "summary": "Integrate public trend signals to improve ClearInstall by automating risk detection and providing real-time updates, enhancing user experience through personalized recommendations, and optimizing the installation process for better efficiency.",
   "actions": [
-    "[object Object]",
-    "[object Object]",
     "[object Object]"
   ],
   "signals": [
@@ -13,37 +11,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 21261
+      "score": 21577
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 20945
+      "score": 21002
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11497
+      "score": 11565
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7650
+      "score": 7671
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6393
+      "score": 6401
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6010
+      "score": 6197
     }
   ]
 }

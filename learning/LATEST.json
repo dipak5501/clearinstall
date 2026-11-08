@@ -1,13 +1,11 @@
 {
-  "at": "2026-11-08T07:15:52.163Z",
-  "featureId": "web-learn-2026-11-08T07",
+  "at": "2026-11-08T10:21:09.782Z",
+  "featureId": "web-learn-2026-11-08T10",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhancing ClearInstall with Public Trend Signals",
-    "summary": "By integrating public trend signals, ClearInstall can offer more comprehensive security and risk assessment features. This will help users make informed decisions before running installations, ensuring a safer development environment.",
+    "headline": "Enhance ClearInstall with AI-driven Risk Analysis",
+    "summary": "Integrate public trend signals to improve ClearInstall by automating risk detection and providing real-time updates, enhancing user experience through personalized recommendations, and optimizing the installation process for better efficiency.",
     "actions": [
-      "[object Object]",
-      "[object Object]",
       "[object Object]"
     ]
   },
@@ -16,73 +14,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 21261
+      "score": 21577
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 20945
+      "score": 21002
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 11497
+      "score": 11565
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7650
+      "score": 7671
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6393
+      "score": 6401
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6010
+      "score": 6197
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 5914
+      "score": 5960
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 5742
+      "score": 5763
     },
     {
       "source": "github_search",
-      "title": "Djihads80/Eglantine",
-      "url": "https://github.com/Djihads80/Eglantine",
-      "score": 5260
+      "title": "Eglantine-Community/Eglantine",
+      "url": "https://github.com/Eglantine-Community/Eglantine",
+      "score": 5284
     },
     {
       "source": "github_search",
       "title": "BryceYuuu/RUN",
       "url": "https://github.com/BryceYuuu/RUN",
-      "score": 4200
+      "score": 4207
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 4007
+      "score": 4033
     },
     {
       "source": "github_search",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video",
-      "score": 3801
+      "score": 3873
     }
   ]
 }
