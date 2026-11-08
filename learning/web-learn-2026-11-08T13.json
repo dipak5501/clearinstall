@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-08T13:26:24.148Z",
+  "featureId": "web-learn-2026-11-08T13",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with AI-driven Risk Analysis",
+    "summary": "Integrate public trend signals to improve ClearInstall by incorporating AI-driven risk analysis, real-time binding.gyp command expansion monitoring, and user-friendly interface enhancements for better visibility into npm/PyPI install risks.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 21855
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 21060
+    },
+    {
+      "source": "github_search",
+      "title": "heydamir/unslop",
+      "url": "https://github.com/heydamir/unslop",
+      "score": 11660
+    },
+    {
+      "source": "github_search",
+      "title": "wangzan101/Mika",
+      "url": "https://github.com/wangzan101/Mika",
+      "score": 7689
+    },
+    {
+      "source": "github_search",
+      "title": "anhao/ai-pose-gallery-zh",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "score": 6409
+    },
+    {
+      "source": "github_search",
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 6355
+    },
+    {
+      "source": "github_search",
+      "title": "patch-gg/pixelfx",
+      "url": "https://github.com/patch-gg/pixelfx",
+      "score": 5994
+    },
+    {
+      "source": "github_search",
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 5809
+    },
+    {
+      "source": "github_search",
+      "title": "Eglantine-Community/Eglantine",
+      "url": "https://github.com/Eglantine-Community/Eglantine",
+      "score": 5331
+    },
+    {
+      "source": "github_search",
+      "title": "BryceYuuu/RUN",
+      "url": "https://github.com/BryceYuuu/RUN",
+      "score": 4222
+    },
+    {
+      "source": "github_search",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 4051
+    },
+    {
+      "source": "github_search",
+      "title": "JuneYaooo/rea-video",
+      "url": "https://github.com/JuneYaooo/rea-video",
+      "score": 3982
+    }
+  ]
+}
