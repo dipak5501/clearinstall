@@ -2475,3 +2475,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-08 — web-learn-2026-11-08T16
+
+Enhance ClearInstall with AI-driven Risk Assessment
+
+Integrate public trend signals to improve ClearInstall by adding real-time risk assessment, automatic binding.gyp command detection, and user-friendly interface enhancements. These improvements will make the app more efficient and user-centric.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- wangzan101/Mika
+- zortos293/Lichii
