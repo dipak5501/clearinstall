@@ -2423,3 +2423,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - anhao/ai-pose-gallery-zh
+
+## 2026-11-08 — web-learn-2026-11-08T07
+
+Enhancing ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can offer more comprehensive security and risk assessment features. This will help users make informed decisions before running installations, ensuring a safer development environment.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- wangzan101/Mika
+- anhao/ai-pose-gallery-zh
