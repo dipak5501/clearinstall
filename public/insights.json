@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-09T01:46:52.300Z",
+  "updatedAt": "2026-11-09T04:52:06.925Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with AI-driven Risk Analysis",
-  "summary": "Integrate public trend signals to improve ClearInstall by adding real-time risk assessment and automated binding.gyp command expansion checks, enhancing user experience through predictive analytics, and optimizing install surfaces based on community feedback.",
+  "headline": "Enhance ClearInstall with AI-Powered Insights",
+  "summary": "Integrate AI-driven risk assessments to provide real-time warnings during the installation process, improve dependency analysis for better security checks, and offer personalized recommendations based on user history.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 22727
+      "score": 23085
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21215
+      "score": 21333
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 12022
+      "score": 12111
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7750
+      "score": 7785
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 6882
+      "score": 6990
     },
     {
       "source": "github_search",
       "title": "anhao/ai-pose-gallery-zh",
       "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6447
+      "score": 6474
     }
   ]
 }

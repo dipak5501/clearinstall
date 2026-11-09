@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with AI-driven Risk Analysis
+**Latest:** Enhance ClearInstall with AI-Powered Insights
 
-Integrate public trend signals to improve ClearInstall by adding real-time risk assessment and automated binding.gyp command expansion checks, enhancing user experience through predictive analytics, and optimizing install surfaces based on community feedback.
+Integrate AI-driven risk assessments to provide real-time warnings during the installation process, improve dependency analysis for better security checks, and offer personalized recommendations based on user history.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
