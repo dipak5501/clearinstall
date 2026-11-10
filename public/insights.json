@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-10T11:46:42.850Z",
+  "updatedAt": "2026-11-10T14:52:14.762Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Risk Analysis",
-  "summary": "Integrate real-time risk analysis tools to provide users with up-to-date security insights, expand the scope of dependency checks to include more file types, and implement a user-friendly dashboard for better visibility into installation risks.",
+  "headline": "Enhance ClearInstall with Real-Time Risk Assessment",
+  "summary": "Integrate real-time risk assessment tools to provide users with immediate feedback on potential vulnerabilities during package installation, ensuring a safer development environment. Leverage machine learning models for advanced dependency analysis and improve user interface design for better accessibility.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 25448
+      "score": 25646
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22032
+      "score": 22092
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 13192
+      "score": 13379
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7991
+      "score": 8018
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 7890
+      "score": 7969
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 7602
+      "score": 7897
     }
   ]
 }

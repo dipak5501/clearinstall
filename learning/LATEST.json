@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-10T11:46:42.850Z",
-  "featureId": "web-learn-2026-11-10T11",
+  "at": "2026-11-10T14:52:14.762Z",
+  "featureId": "web-learn-2026-11-10T14",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Real-Time Risk Analysis",
-    "summary": "Integrate real-time risk analysis tools to provide users with up-to-date security insights, expand the scope of dependency checks to include more file types, and implement a user-friendly dashboard for better visibility into installation risks.",
+    "headline": "Enhance ClearInstall with Real-Time Risk Assessment",
+    "summary": "Integrate real-time risk assessment tools to provide users with immediate feedback on potential vulnerabilities during package installation, ensuring a safer development environment. Leverage machine learning models for advanced dependency analysis and improve user interface design for better accessibility.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 25448
+      "score": 25646
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22032
+      "score": 22092
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 13192
+      "score": 13379
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7991
+      "score": 8018
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 7890
+      "score": 7969
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 7602
+      "score": 7897
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 6540
+      "score": 6585
     },
     {
       "source": "github_search",
       "title": "valentderah/totk-pc-recomp",
       "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 6301
+      "score": 6341
     },
     {
       "source": "github_search",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video",
-      "score": 5997
+      "score": 6107
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 5824
+      "score": 6049
     },
     {
       "source": "github_search",
       "title": "Eglantine-Community/Eglantine",
       "url": "https://github.com/Eglantine-Community/Eglantine",
-      "score": 5711
+      "score": 5730
     },
     {
       "source": "github_search",
       "title": "anefzaoui/misterdownloadmanager",
       "url": "https://github.com/anefzaoui/misterdownloadmanager",
-      "score": 4945
+      "score": 5181
     }
   ]
 }
