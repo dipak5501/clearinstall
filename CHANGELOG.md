@@ -2727,3 +2727,21 @@ Signals:
 - heydamir/unslop
 - wangzan101/Mika
 - zortos293/Lichii
+
+## 2026-11-10 — web-learn-2026-11-10T11
+
+Enhance ClearInstall with Real-Time Risk Analysis
+
+Integrate real-time risk analysis tools to provide users with up-to-date security insights, expand the scope of dependency checks to include more file types, and implement a user-friendly dashboard for better visibility into installation risks.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- wangzan101/Mika
+- zortos293/Lichii
