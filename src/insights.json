@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-09T23:24:13.160Z",
+  "updatedAt": "2026-11-10T02:29:59.259Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with AI-Powered Risk Detection",
-  "summary": "Integrate public trend signals to improve ClearInstall's risk detection capabilities, leveraging AI for more accurate and real-time binding.gyp command expansion analysis. Enhance user experience by providing detailed explanations of potential risks before installation.",
+  "headline": "Enhance ClearInstall with Public Trend Signals",
+  "summary": "Integrate real-time dependency analysis and risk assessment to improve ClearInstall's local-first lockfile and install-surface auditing capabilities, ensuring users have a secure and efficient installation process.",
   "actions": [
-    "Implement AI models from projects like storytold/craft-anything to analyze and predict potential npm/PyPI package risks in real-time.",
-    "Utilize deepseek-ai/dsh-superagent-prototype for advanced command expansion detection, ensuring that all binding.gyp files are thoroughly checked for security v",
-    "Integrate explanations and context from projects like heydamir/unslop to provide users with clear, actionable insights on how to mitigate identified risks."
+    "[object Object]",
+    "[object Object]",
+    "[object Object]"
   ],
   "signals": [
     {
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 24384
+      "score": 24654
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 21732
+      "score": 21781
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 12727
+      "score": 12794
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 7904
+      "score": 7918
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 7586
+      "score": 7675
     },
     {
       "source": "github_search",
-      "title": "anhao/ai-pose-gallery-zh",
-      "url": "https://github.com/anhao/ai-pose-gallery-zh",
-      "score": 6547
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 6577
     }
   ]
 }
