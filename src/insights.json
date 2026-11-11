@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-11T17:01:05.026Z",
+  "updatedAt": "2026-11-11T18:47:04.833Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "Utilize public trend signals to improve the accuracy and relevance of risk detection in ClearInstall, ensuring users are informed about potential issues before installation. Leverage AI-driven insights for enhanced security checks and user-friendly interface updates.",
+  "summary": "Integrate real-time dependency analysis and binding.gyp command expansion checks to improve ClearInstall's pre-install risk assessment. Leverage user feedback mechanisms for continuous improvement based on community insights.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 28090
+      "score": 28187
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22455
+      "score": 22468
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 14384
+      "score": 14427
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8440
+      "score": 8463
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8272
+      "score": 8280
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 8224
+      "score": 8234
     }
   ]
 }

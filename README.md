@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Utilize public trend signals to improve the accuracy and relevance of risk detection in ClearInstall, ensuring users are informed about potential issues before installation. Leverage AI-driven insights for enhanced security checks and user-friendly interface updates.
+Integrate real-time dependency analysis and binding.gyp command expansion checks to improve ClearInstall's pre-install risk assessment. Leverage user feedback mechanisms for continuous improvement based on community insights.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
