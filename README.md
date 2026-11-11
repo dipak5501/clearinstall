@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with AI-driven Risk Assessment
 
-Integrate real-time dependency analysis and risk assessment to improve ClearInstall's local-first lockfile auditing, ensuring secure and efficient package installations. Leverage machine learning for advanced binding.gyp command detection and optimization.
+Integrate public trend signals to improve ClearInstall's risk assessment capabilities, making it more accurate and user-friendly. Leverage AI for better binding.gyp command expansion detection and overall installation surface analysis.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
