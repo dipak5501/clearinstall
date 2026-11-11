@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-11T18:47:04.833Z",
-  "featureId": "web-learn-2026-11-11T18",
+  "at": "2026-11-11T21:53:00.872Z",
+  "featureId": "web-learn-2026-11-11T21",
   "slug": "clearinstall",
   "idea": {
     "headline": "Enhance ClearInstall with Public Trend Signals",
-    "summary": "Integrate real-time dependency analysis and binding.gyp command expansion checks to improve ClearInstall's pre-install risk assessment. Leverage user feedback mechanisms for continuous improvement based on community insights.",
+    "summary": "Integrate real-time dependency analysis and risk assessment tools to improve ClearInstall's ability to detect potential issues early in the installation process. Leverage machine learning for predictive insights into package vulnerabilities, and enhance user interface design for better engagement.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 28187
+      "score": 28282
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22468
+      "score": 22481
     },
     {
       "source": "github_search",
       "title": "heydamir/unslop",
       "url": "https://github.com/heydamir/unslop",
-      "score": 14427
+      "score": 14475
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8463
+      "score": 8497
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8280
+      "score": 8283
     },
     {
       "source": "github_search",
       "title": "wangzan101/Mika",
       "url": "https://github.com/wangzan101/Mika",
-      "score": 8234
+      "score": 8240
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 7456
+      "score": 7628
     },
     {
       "source": "github_search",
       "title": "JuneYaooo/rea-video",
       "url": "https://github.com/JuneYaooo/rea-video",
-      "score": 6992
+      "score": 7019
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 6943
-    },
-    {
-      "source": "github_search",
-      "title": "valentderah/totk-pc-recomp",
-      "url": "https://github.com/valentderah/totk-pc-recomp",
-      "score": 6672
+      "score": 6966
     },
     {
       "source": "github_search",
       "title": "anefzaoui/misterdownloadmanager",
       "url": "https://github.com/anefzaoui/misterdownloadmanager",
-      "score": 6663
+      "score": 6750
+    },
+    {
+      "source": "github_search",
+      "title": "valentderah/totk-pc-recomp",
+      "url": "https://github.com/valentderah/totk-pc-recomp",
+      "score": 6712
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 6105
+      "score": 6143
     }
   ]
 }
