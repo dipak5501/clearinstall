@@ -2907,3 +2907,21 @@ Signals:
 - heydamir/unslop
 - zortos293/Lichii
 - Minireel/HGhub
+
+## 2026-11-11 — web-learn-2026-11-11T17
+
+Enhance ClearInstall with Public Trend Signals
+
+Utilize public trend signals to improve the accuracy and relevance of risk detection in ClearInstall, ensuring users are informed about potential issues before installation. Leverage AI-driven insights for enhanced security checks and user-friendly interface updates.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- heydamir/unslop
+- zortos293/Lichii
+- Minireel/HGhub
