@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-12T16:27:21.627Z",
-  "featureId": "web-learn-2026-11-12T16",
+  "at": "2026-11-12T19:33:06.956Z",
+  "featureId": "web-learn-2026-11-12T19",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with AI-driven Risk Assessment",
-    "summary": "Integrate AI algorithms to predict and mitigate risks associated with npm/PyPI package installations, including binding.gyp command expansion. Leverage machine learning models for enhanced security checks and real-time risk assessments.",
+    "headline": "Enhance ClearInstall with AI-Powered Insights",
+    "summary": "Integrate AI-driven risk assessment to predict potential issues during npm/PyPI installations, improve user experience through personalized recommendations, and automate binding.gyp command expansions for smoother local-first setups.",
     "actions": [
-      "Implement an AI model that analyzes public repositories and historical data to identify potential vulnerabilities in packages before installation.",
-      "Develop a feature that uses natural language processing (NLP) to understand and flag complex package dependencies, such as those involving binding.gyp files.",
-      "Create a dynamic risk scoring system based on real-time threat intelligence feeds, providing users with actionable insights to avoid risky installations."
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
     ]
   },
   "signals": [
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 29551
+      "score": 29675
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22708
+      "score": 22722
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8692
+      "score": 8721
     },
     {
       "source": "github_search",
       "title": "Minireel/HGhub",
       "url": "https://github.com/Minireel/HGhub",
-      "score": 8558
+      "score": 8617
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 8486
+      "score": 8598
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 7365
+      "score": 7563
     },
     {
       "source": "github_search",
       "title": "patch-gg/pixelfx",
       "url": "https://github.com/patch-gg/pixelfx",
-      "score": 7141
+      "score": 7157
     },
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 6855
+      "score": 6904
     },
     {
       "source": "github_search",
       "title": "KKKKhazix/agent-autoloop",
       "url": "https://github.com/KKKKhazix/agent-autoloop",
-      "score": 4708
+      "score": 4743
     },
     {
       "source": "github_search",
       "title": "Lee-xeo/Claude-Cage",
       "url": "https://github.com/Lee-xeo/Claude-Cage",
-      "score": 4649
+      "score": 4721
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 3449
+      "score": 3493
     },
     {
       "source": "github_search",
       "title": "Verlintas/NOIR",
       "url": "https://github.com/Verlintas/NOIR",
-      "score": 3331
+      "score": 3335
     }
   ]
 }
