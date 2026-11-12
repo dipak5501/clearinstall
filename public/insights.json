@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-12T19:33:06.956Z",
+  "updatedAt": "2026-11-12T22:38:58.392Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with AI-Powered Insights",
-  "summary": "Integrate AI-driven risk assessment to predict potential issues during npm/PyPI installations, improve user experience through personalized recommendations, and automate binding.gyp command expansions for smoother local-first setups.",
+  "headline": "Enhance ClearInstall for Modern Dev Environments",
+  "summary": "Integrate real-time dependency analysis and security checks to provide comprehensive risk assessment. Incorporate AI-driven insights for proactive issue resolution. Implement a user-friendly interface for seamless integration into development workflows.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "storytold/craft-anything",
       "url": "https://github.com/storytold/craft-anything",
-      "score": 29675
+      "score": 29772
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/dsh-superagent-prototype",
       "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
-      "score": 22722
+      "score": 22733
     },
     {
       "source": "github_search",
       "title": "zortos293/Lichii",
       "url": "https://github.com/zortos293/Lichii",
-      "score": 8721
-    },
-    {
-      "source": "github_search",
-      "title": "Minireel/HGhub",
-      "url": "https://github.com/Minireel/HGhub",
-      "score": 8617
+      "score": 8746
     },
     {
       "source": "github_search",
       "title": "NotRexed/Hookshot",
       "url": "https://github.com/NotRexed/Hookshot",
-      "score": 8598
+      "score": 8704
+    },
+    {
+      "source": "github_search",
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 8637
     },
     {
       "source": "github_search",
       "title": "janestreet/agent_skills",
       "url": "https://github.com/janestreet/agent_skills",
-      "score": 7563
+      "score": 7729
     }
   ]
 }
