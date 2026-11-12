@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time dependency analysis and risk assessment to improve ClearInstall's local-first lockfile auditing, ensuring safer npm/PyPI installations. Leverage AI-driven insights for enhanced command expansion detection.
+Integrate real-time dependency analysis and risk assessment tools to improve ClearInstall's local-first lockfile and install-surface auditing. Leverage AI-driven insights for enhanced security and efficiency in package management.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
