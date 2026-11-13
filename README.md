@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall for Modern Dev Environments
+**Latest:** Enhance ClearInstall with AI-driven Risk Assessment
 
-Integrate real-time dependency analysis and security checks to provide comprehensive risk assessment. Incorporate AI-driven insights for proactive issue resolution. Implement a user-friendly interface for seamless integration into development workflows.
+Integrate public trend signals to improve ClearInstall’s risk assessment capabilities by leveraging AI for more accurate and real-time vulnerability detection. Enhance user experience through automated binding.gyp command expansion checks, and provide detailed insights into potential security risks before installation.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
