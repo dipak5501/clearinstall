@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with AI-driven Risk Assessment
 
-Integrate public trend signals to improve ClearInstall’s risk assessment capabilities by leveraging AI for more accurate and real-time vulnerability detection. Enhance user experience through automated binding.gyp command expansion checks, and provide detailed insights into potential security risks before installation.
+Integrate machine learning models to predict and mitigate risks associated with npm/PyPI packages, including binding.gyp command expansion. Leverage natural language processing for improved documentation parsing and user guidance.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
