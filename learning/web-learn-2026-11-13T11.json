@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-13T11:03:32.366Z",
+  "featureId": "web-learn-2026-11-13T11",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with AI-driven Risk Analysis",
+    "summary": "Integrate public trend signals to improve the accuracy of risk detection in npm/PyPI packages, ensuring safer local-first installations. Leverage AI for real-time updates and enhanced binding.gyp command expansion checks.",
+    "actions": [
+      "Implement machine learning models based on recent trends (e.g., agent_skills) to predict potential risks associated with package bindings and commands.",
+      "Utilize natural language processing techniques from Claude-Cage to analyze package descriptions and community feedback for additional risk insights.",
+      "Integrate real-time update mechanisms using superagent-prototype to ensure ClearInstall stays up-to-date with the latest package information and trends."
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "storytold/craft-anything",
+      "url": "https://github.com/storytold/craft-anything",
+      "score": 30829
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/dsh-superagent-prototype",
+      "url": "https://github.com/deepseek-ai/dsh-superagent-prototype",
+      "score": 22931
+    },
+    {
+      "source": "github_search",
+      "title": "NotRexed/Hookshot",
+      "url": "https://github.com/NotRexed/Hookshot",
+      "score": 9115
+    },
+    {
+      "source": "github_search",
+      "title": "zortos293/Lichii",
+      "url": "https://github.com/zortos293/Lichii",
+      "score": 8850
+    },
+    {
+      "source": "github_search",
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 8764
+    },
+    {
+      "source": "github_search",
+      "title": "janestreet/agent_skills",
+      "url": "https://github.com/janestreet/agent_skills",
+      "score": 8007
+    },
+    {
+      "source": "github_search",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "score": 7136
+    },
+    {
+      "source": "github_search",
+      "title": "Lee-xeo/Claude-Cage",
+      "url": "https://github.com/Lee-xeo/Claude-Cage",
+      "score": 5131
+    },
+    {
+      "source": "github_search",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 5035
+    },
+    {
+      "source": "github_search",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 3673
+    },
+    {
+      "source": "github_search",
+      "title": "expo/exact",
+      "url": "https://github.com/expo/exact",
+      "score": 3642
+    },
+    {
+      "source": "hackernews",
+      "title": "Jensen Huang resigns",
+      "url": "https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f",
+      "score": 3596
+    }
+  ]
+}
