@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with AI-driven Risk Assessment
 
-Integrate machine learning models to predict and mitigate risks associated with npm/PyPI package installations, including command expansion issues. Leverage natural language processing for improved documentation parsing and user guidance.
+Integrate AI models to predict and mitigate risks associated with npm/PyPI package installations, including command expansion issues. Leverage natural language processing for better documentation comprehension and user guidance.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
