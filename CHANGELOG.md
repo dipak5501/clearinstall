@@ -3213,3 +3213,21 @@ Signals:
 - zortos293/Lichii
 - Minireel/HGhub
 - janestreet/agent_skills
+
+## 2026-11-13 — web-learn-2026-11-13T20
+
+Enhance ClearInstall with AI-driven Risk Assessment
+
+Integrate public trend signals to improve ClearInstall’s risk assessment capabilities, making it more accurate and efficient. Leverage AI for better binding.gyp command expansion detection and overall install-surface auditing.
+
+Suggested actions:
+- Implement machine learning models to analyze npm/PyPI package dependencies and identify potential risks before installation.
+- Develop an AI-driven module to automatically detect and warn about binding.gyp command expansions, enhancing security checks.
+- Utilize natural language processing (NLP) techniques to enhance the readability of risk assessments, making them more accessible to users.
+
+Signals:
+- storytold/craft-anything
+- deepseek-ai/dsh-superagent-prototype
+- zortos293/Lichii
+- Minireel/HGhub
+- janestreet/agent_skills
