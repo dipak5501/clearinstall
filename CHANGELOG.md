@@ -3339,3 +3339,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-14 — web-learn-2026-11-14T18
+
+Enhancing ClearInstall with Public Trend Signals
+
+By integrating features from Minireel/HGhub, ClearInstall can improve its local-first lockfile management. Adopting insights from janestreet/agent_skills will help in enhancing the install-surface auditor. Lastly, incorporating elements from huamidev/GestaltX will provide a more comprehensive risk assessment before installation.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- expo/exact

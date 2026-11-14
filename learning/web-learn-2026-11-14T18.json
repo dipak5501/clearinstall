@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-14T18:02:54.388Z",
+  "featureId": "web-learn-2026-11-14T18",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhancing ClearInstall with Public Trend Signals",
+    "summary": "By integrating features from Minireel/HGhub, ClearInstall can improve its local-first lockfile management. Adopting insights from janestreet/agent_skills will help in enhancing the install-surface auditor. Lastly, incorporating elements from huamidev/GestaltX will provide a more comprehensive risk assessment before installation.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 8847
+    },
+    {
+      "source": "github_search",
+      "title": "janestreet/agent_skills",
+      "url": "https://github.com/janestreet/agent_skills",
+      "score": 8529
+    },
+    {
+      "source": "github_search",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "score": 7536
+    },
+    {
+      "source": "github_search",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 5318
+    },
+    {
+      "source": "github_search",
+      "title": "expo/exact",
+      "url": "https://github.com/expo/exact",
+      "score": 4147
+    },
+    {
+      "source": "github_search",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 4060
+    },
+    {
+      "source": "github_search",
+      "title": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri",
+      "score": 3373
+    },
+    {
+      "source": "github_search",
+      "title": "mromidev/claude-animated-shorts",
+      "url": "https://github.com/mromidev/claude-animated-shorts",
+      "score": 3367
+    },
+    {
+      "source": "github_search",
+      "title": "shanselman/gputaskman",
+      "url": "https://github.com/shanselman/gputaskman",
+      "score": 3195
+    },
+    {
+      "source": "github_search",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "score": 3071
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 2967
+    },
+    {
+      "source": "github_search",
+      "title": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "score": 2733
+    }
+  ]
+}
