@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhancing ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Insights
 
-By integrating features from Minireel/HGhub, ClearInstall can improve its local-first lockfile management. Adopting insights from janestreet/agent_skills will help in enhancing the install-surface auditor. Lastly, incorporating elements from huamidev/GestaltX will provide a more comprehensive risk assessment before installation.
+Integrate real-time dependency risk analysis into ClearInstall to provide users with up-to-date security and compatibility information. Leverage agent-based monitoring for dynamic updates on package vulnerabilities, and improve the user interface to make critical insights more accessible.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
