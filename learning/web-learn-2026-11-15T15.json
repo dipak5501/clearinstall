@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-15T15:44:32.170Z",
+  "featureId": "web-learn-2026-11-15T15",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
+    "summary": "Integrate real-time dependency analysis to detect potential vulnerabilities and misconfigurations early in the development cycle, ensuring a safer and more secure installation process. Leverage machine learning models for predictive insights into future risks associated with package dependencies.",
+    "actions": [
+      "Implement a dynamic scanning feature that continuously monitors npm/PyPI feeds for security advisories and updates relevant to installed packages.",
+      "Develop an AI-driven risk assessment tool that predicts potential issues based on historical data of similar projects, providing early warnings about binding.gy",
+      "Create a collaborative environment within the ClearInstall platform where developers can share and discuss best practices for secure package management, enhanci"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Minireel/HGhub",
+      "url": "https://github.com/Minireel/HGhub",
+      "score": 8946
+    },
+    {
+      "source": "github_search",
+      "title": "janestreet/agent_skills",
+      "url": "https://github.com/janestreet/agent_skills",
+      "score": 8842
+    },
+    {
+      "source": "github_search",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "score": 7706
+    },
+    {
+      "source": "github_search",
+      "title": "KKKKhazix/agent-autoloop",
+      "url": "https://github.com/KKKKhazix/agent-autoloop",
+      "score": 5464
+    },
+    {
+      "source": "github_search",
+      "title": "libracoder/kiri",
+      "url": "https://github.com/libracoder/kiri",
+      "score": 5207
+    },
+    {
+      "source": "github_search",
+      "title": "expo/exact",
+      "url": "https://github.com/expo/exact",
+      "score": 4261
+    },
+    {
+      "source": "github_search",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 4175
+    },
+    {
+      "source": "github_search",
+      "title": "shanselman/gputaskman",
+      "url": "https://github.com/shanselman/gputaskman",
+      "score": 3292
+    },
+    {
+      "source": "github_search",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "score": 3239
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 3137
+    },
+    {
+      "source": "github_search",
+      "title": "govijr/terminal-mac",
+      "url": "https://github.com/govijr/terminal-mac",
+      "score": 2761
+    },
+    {
+      "source": "github_search",
+      "title": "sarpstar/cinecode",
+      "url": "https://github.com/sarpstar/cinecode",
+      "score": 2538
+    }
+  ]
+}
