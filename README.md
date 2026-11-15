@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Dependency Risk Alerts
 
-Integrate real-time dependency risk alerts to provide instant feedback on potential vulnerabilities. Incorporate detailed binding.gyp command insights for better understanding of underlying risks. Implement a user-friendly interface that highlights critical issues during the installation process.
+Integrate real-time dependency risk alerts and binding.gyp command expansion checks to provide users with comprehensive install-time security. Leverage agent-based monitoring for proactive issue detection and improve user experience through streamlined installation processes.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

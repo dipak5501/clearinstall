@@ -3429,3 +3429,21 @@ Signals:
 - huamidev/GestaltX
 - KKKKhazix/agent-autoloop
 - expo/exact
+
+## 2026-11-15 — web-learn-2026-11-15T09
+
+Enhance ClearInstall with Real-Time Dependency Risk Alerts
+
+Integrate real-time dependency risk alerts and binding.gyp command expansion checks to provide users with comprehensive install-time security. Leverage agent-based monitoring for proactive issue detection and improve user experience through streamlined installation processes.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Minireel/HGhub
+- janestreet/agent_skills
+- huamidev/GestaltX
+- KKKKhazix/agent-autoloop
+- libracoder/kiri
