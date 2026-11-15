@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
 
-Integrate real-time dependency risk analysis to provide up-to-date security insights, expand the audit scope to include binding.gyp command risks, and leverage machine learning for predictive risk assessments.
+Integrate real-time dependency risk analysis to provide users with up-to-date security insights. Incorporate agent-based monitoring for dynamic threat detection and improve the user interface for better accessibility.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
