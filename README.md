@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Dependency Analysis
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Assessment
 
-Integrate real-time dependency analysis tools to provide more accurate and up-to-date security assessments. Leverage machine learning models for predictive insights into potential vulnerabilities. Implement a user-friendly interface that highlights critical risks during the installation process.
+Integrate real-time dependency risk assessment into ClearInstall to provide users with up-to-date information on potential vulnerabilities and risks associated with npm/PyPI packages, including command expansion issues. This will help developers make informed decisions before running installations.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
