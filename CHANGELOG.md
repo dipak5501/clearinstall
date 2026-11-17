@@ -3789,3 +3789,21 @@ Signals:
 - tangerineturtle1/NX2navi
 - jhaizhou-ops/S2Arm
 - JenkinWoo/sheeridVerify
+
+## 2026-11-17 — web-learn-2026-11-17T23
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating features from popular projects like GestaltX and Erosion-CN, ClearInstall can improve its lockfile audit capabilities and expand its risk assessment to include more complex dependencies such as native bindings.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- huamidev/GestaltX
+- deepseek-ai/chat-demo
+- tangerineturtle1/NX2navi
+- jhaizhou-ops/S2Arm
+- JenkinWoo/sheeridVerify
