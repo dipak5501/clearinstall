@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-17T05:01:04.440Z",
+  "updatedAt": "2026-11-17T08:07:20.772Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
-  "summary": "Integrate real-time dependency analysis to detect potential vulnerabilities and compatibility issues early in the development process. Leverage machine learning models for predictive risk assessment of npm/PyPI packages, including their binding.gyp command expansions.",
+  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
+  "summary": "Integrate real-time dependency risk analysis to provide up-to-date security insights, expand support for binding.gyp command handling, and introduce a user-friendly interface for easier navigation of installation surfaces.",
   "actions": [
-    "Implement a real-time vulnerability scanner that checks dependencies against known security advisories and exploits before installation.",
-    "Develop an AI-driven dependency graph visualization tool to help users understand the relationships between different package versions and identify potential co",
-    "Create a predictive risk assessment model using machine learning to forecast potential issues with npm/PyPI packages, including their binding.gyp command expans"
+    "[object Object]",
+    "[object Object]",
+    "[object Object]"
   ],
   "signals": [
     {
       "source": "github_search",
       "title": "huamidev/GestaltX",
       "url": "https://github.com/huamidev/GestaltX",
-      "score": 7921
-    },
-    {
-      "source": "github_search",
-      "title": "tangerineturtle1/NX2navi",
-      "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4287
+      "score": 7957
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 4209
+      "score": 4293
+    },
+    {
+      "source": "github_search",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 4290
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3386
+      "score": 3409
     },
     {
       "source": "github_search",
       "title": "JenkinWoo/sheeridVerify",
       "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "score": 3380
+      "score": 3390
     },
     {
       "source": "github_search",
       "title": "jamesondh/chimera-vocal-synth",
       "url": "https://github.com/jamesondh/chimera-vocal-synth",
-      "score": 2577
+      "score": 2594
     }
   ]
 }

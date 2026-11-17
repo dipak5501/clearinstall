@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-17T08:07:20.772Z",
+  "featureId": "web-learn-2026-11-17T08",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
+    "summary": "Integrate real-time dependency risk analysis to provide up-to-date security insights, expand support for binding.gyp command handling, and introduce a user-friendly interface for easier navigation of installation surfaces.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "huamidev/GestaltX",
+      "url": "https://github.com/huamidev/GestaltX",
+      "score": 7957
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 4293
+    },
+    {
+      "source": "github_search",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 4290
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 3409
+    },
+    {
+      "source": "github_search",
+      "title": "JenkinWoo/sheeridVerify",
+      "url": "https://github.com/JenkinWoo/sheeridVerify",
+      "score": 3390
+    },
+    {
+      "source": "github_search",
+      "title": "jamesondh/chimera-vocal-synth",
+      "url": "https://github.com/jamesondh/chimera-vocal-synth",
+      "score": 2594
+    },
+    {
+      "source": "github_search",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 2511
+    },
+    {
+      "source": "github_search",
+      "title": "DIYgod/pinky",
+      "url": "https://github.com/DIYgod/pinky",
+      "score": 2324
+    },
+    {
+      "source": "github_search",
+      "title": "hitkeeen/blender-ai-mcp-addon",
+      "url": "https://github.com/hitkeeen/blender-ai-mcp-addon",
+      "score": 2321
+    },
+    {
+      "source": "github_search",
+      "title": "IainKay/ram-altman",
+      "url": "https://github.com/IainKay/ram-altman",
+      "score": 2229
+    },
+    {
+      "source": "github_search",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "score": 2218
+    },
+    {
+      "source": "github_search",
+      "title": "ersinkoc/phonebox",
+      "url": "https://github.com/ersinkoc/phonebox",
+      "score": 2103
+    }
+  ]
+}
