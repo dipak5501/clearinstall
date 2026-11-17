@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Real-Time Dependency Analysis
 
-Integrate real-time dependency analysis to detect potential vulnerabilities and security risks early in the development process, ensuring a safer local-first environment. Leverage machine learning models for predictive analytics to offer proactive advice on package selection and updates.
+Integrate real-time dependency analysis to provide up-to-date security and compatibility insights, expand support for additional package managers like Go, and introduce a collaborative audit feature to share findings among developers.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
