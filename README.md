@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
+**Latest:** Enhance ClearInstall with Modern Security Features
 
-Integrate real-time dependency risk analysis to provide users with up-to-date security and compatibility insights, enhance the user interface for better accessibility, and implement machine learning models to predict potential installation issues proactively.
+Integrate real-time security checks and threat intelligence feeds to improve the risk assessment of npm/PyPI packages. Implement a user-friendly interface for managing lockfiles and dependencies. Add support for Rust package verification to cover more programming languages.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
