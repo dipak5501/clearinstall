@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Dependency Analysis
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
 
-Integrate public trend signals to provide real-time dependency analysis, ensuring that users are aware of the latest security vulnerabilities and dependencies before installation. This will improve the overall security posture and user experience by reducing potential risks associated with outdated or malicious packages.
+Integrate real-time dependency risk analysis to provide users with up-to-date security and compatibility insights, enhance the user interface for better accessibility, and implement machine learning models to predict potential installation issues proactively.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
