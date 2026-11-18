@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Modern Security Features
+**Latest:** Enhance ClearInstall with Real-Time Dependency Analysis
 
-Integrate real-time vulnerability scanning and binding.gyp command validation to ensure secure package installations. Incorporate user feedback mechanisms for continuous improvement. Utilize machine learning for predictive analysis of potential risks.
+Integrate real-time dependency analysis to provide up-to-date security and compatibility insights, improve user experience through a more intuitive interface, and expand support for additional package managers like Go and Ruby.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
