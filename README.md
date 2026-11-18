@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Modern Security Features
 
-By integrating features from popular projects like GestaltX and Erosion-CN, ClearInstall can improve its lockfile audit capabilities and expand its risk assessment to include more complex dependencies such as native bindings.
+Integrate real-time vulnerability scanning and binding.gyp command validation to ensure secure package installations. Incorporate user feedback mechanisms for continuous improvement. Utilize machine learning for predictive analysis of potential risks.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
