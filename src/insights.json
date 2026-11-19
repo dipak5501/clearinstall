@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-19T00:31:27.756Z",
+  "updatedAt": "2026-11-19T03:37:59.285Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
-  "summary": "Integrate real-time dependency analysis to provide up-to-date security insights, expand support for binding.gyp command expansion, and introduce a collaborative risk assessment feature.",
+  "headline": "Enhance ClearInstall with Public Trend Signals",
+  "summary": "By integrating features from recent projects, ClearInstall can improve its risk assessment capabilities and user experience. This will make it more effective in identifying potential issues before installations, enhancing security and efficiency.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8370
+      "score": 8401
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 4817
+      "score": 4867
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4316
+      "score": 4321
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 3957
+      "score": 4078
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3594
+      "score": 3606
     },
     {
       "source": "github_search",
-      "title": "JenkinWoo/sheeridVerify",
-      "url": "https://github.com/JenkinWoo/sheeridVerify",
-      "score": 3492
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 3531
     }
   ]
 }
