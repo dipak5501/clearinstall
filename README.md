@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
 
-Integrate real-time dependency analysis and risk assessment features to improve the security and reliability of npm/PyPI package installations. Leverage machine learning models for advanced binding.gyp command detection.
+Integrate public trend signals from repositories like GestaltX and Wireless-Device-Battery-Monitor to provide real-time dependency risk analysis. Leverage Rust for performance improvements in the audit process, and incorporate user feedback through a chat interface.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
