@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-By integrating features from similar projects, ClearInstall can improve its lockfile analysis and install-surface auditing to better handle complex dependencies like binding.gyp command expansions. This will make the app more robust and user-friendly for developers working on local-first applications.
+Integrate real-time dependency analysis and risk assessment features to improve the security and reliability of npm/PyPI package installations. Leverage machine learning models for advanced binding.gyp command detection.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

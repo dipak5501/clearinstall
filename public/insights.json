@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-19T09:51:22.883Z",
+  "updatedAt": "2026-11-19T12:58:05.434Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "By integrating features from similar projects, ClearInstall can improve its lockfile analysis and install-surface auditing to better handle complex dependencies like binding.gyp command expansions. This will make the app more robust and user-friendly for developers working on local-first applications.",
+  "summary": "Integrate real-time dependency analysis and risk assessment features to improve the security and reliability of npm/PyPI package installations. Leverage machine learning models for advanced binding.gyp command detection.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,13 +13,25 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8458
+      "score": 8476
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 4954
+      "score": 4983
+    },
+    {
+      "source": "github_search",
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "score": 4335
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 4324
     },
     {
       "source": "github_search",
@@ -29,21 +41,9 @@
     },
     {
       "source": "github_search",
-      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
-      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 4239
-    },
-    {
-      "source": "github_search",
-      "title": "erkamyaman/rust-anything",
-      "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 4052
-    },
-    {
-      "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3639
+      "score": 3652
     }
   ]
 }
