@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time dependency analysis and risk assessment tools to improve ClearInstall's lockfile and install-surface auditing, ensuring safer local-first installations. Leverage public trend signals for enhanced security insights.
+By integrating features from popular projects like GestaltX and rust-anything, ClearInstall can improve its lockfile analysis and install-surface auditing to better handle complex dependencies and binding.gyp files. This will ensure users have a more secure and reliable installation process.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
