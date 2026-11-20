@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-20T16:55:51.933Z",
+  "featureId": "web-learn-2026-11-20T16",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "Integrate real-time dependency analysis and risk assessment tools to improve ClearInstall's lockfile and install-surface auditing, ensuring safer local-first installations. Leverage public trend signals for enhanced security insights.",
+    "actions": [
+      "Integrate dependency analysis from huami1314/GestaltX to perform comprehensive checks on npm/PyPI packages before installation, including binding.gyp command ex",
+      "Adopt rust-anything's robust Rust package handling capabilities to ensure that all dependencies are secure and up-to-date during the install process.",
+      "Utilize krisgfx9/Wireless-Device-Battery-Monitor for real-time monitoring of device battery levels, optimizing ClearInstall’s performance and resource usage on "
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "huami1314/GestaltX",
+      "url": "https://github.com/huami1314/GestaltX",
+      "score": 8627
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 6304
+    },
+    {
+      "source": "github_search",
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "score": 5130
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5109
+    },
+    {
+      "source": "github_search",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 4339
+    },
+    {
+      "source": "github_search",
+      "title": "ersinkoc/phonebox",
+      "url": "https://github.com/ersinkoc/phonebox",
+      "score": 4140
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 3722
+    },
+    {
+      "source": "github_search",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 2728
+    },
+    {
+      "source": "github_search",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 2726
+    },
+    {
+      "source": "github_search",
+      "title": "simplexai-labs/linger",
+      "url": "https://github.com/simplexai-labs/linger",
+      "score": 2714
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 2706
+    },
+    {
+      "source": "github_search",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "score": 2624
+    }
+  ]
+}
