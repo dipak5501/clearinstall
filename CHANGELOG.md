@@ -4113,3 +4113,21 @@ Signals:
 - deepseek-ai/chat-demo
 - krisgfx9/Wireless-Device-Battery-Monitor
 - tangerineturtle1/NX2navi
+
+## 2026-11-20 — web-learn-2026-11-20T07
+
+Enhance ClearInstall with Public Trend Signals
+
+Integrate real-time dependency risk analysis, expand support for Rust packages, and improve battery monitoring features to better protect users' devices during installations.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- krisgfx9/Wireless-Device-Battery-Monitor
+- tangerineturtle1/NX2navi
