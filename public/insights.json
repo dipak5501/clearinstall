@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-20T20:02:32.155Z",
+  "updatedAt": "2026-11-20T23:09:13.742Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "By integrating features from popular projects like GestaltX and rust-anything, ClearInstall can improve its lockfile analysis and install-surface auditing to better handle complex dependencies and binding.gyp files. This will ensure users have a more secure and reliable installation process.",
+  "summary": "By integrating features from popular projects, ClearInstall can improve its risk assessment capabilities and user experience. This will make it more robust in handling diverse package dependencies and binding.gyp command expansions.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,25 +13,25 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8631
+      "score": 8638
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 6479
+      "score": 6589
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 5195
+      "score": 5261
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5115
+      "score": 5117
     },
     {
       "source": "github_search",
@@ -43,7 +43,7 @@
       "source": "github_search",
       "title": "ersinkoc/phonebox",
       "url": "https://github.com/ersinkoc/phonebox",
-      "score": 4181
+      "score": 4217
     }
   ]
 }

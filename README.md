@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-By integrating features from popular projects like GestaltX and rust-anything, ClearInstall can improve its lockfile analysis and install-surface auditing to better handle complex dependencies and binding.gyp files. This will ensure users have a more secure and reliable installation process.
+By integrating features from popular projects, ClearInstall can improve its risk assessment capabilities and user experience. This will make it more robust in handling diverse package dependencies and binding.gyp command expansions.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
