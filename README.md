@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Alerts
 
-By integrating features from popular projects like GestaltX and rust-anything, ClearInstall can improve its risk assessment capabilities and enhance user experience. This will make the app more robust and relevant to modern development needs.
+Integrate public trend signals to identify potential security vulnerabilities and dependencies before installation, ensuring a safer development environment. Improve user experience by providing real-time feedback on dependency risks.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
