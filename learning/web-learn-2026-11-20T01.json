@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-20T01:22:51.763Z",
+  "featureId": "web-learn-2026-11-20T01",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "By integrating features from popular projects like GestaltX and rust-anything, ClearInstall can improve its risk assessment capabilities and enhance user experience. This will make the app more robust and relevant to modern development needs.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "huami1314/GestaltX",
+      "url": "https://github.com/huami1314/GestaltX",
+      "score": 8540
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 5217
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5026
+    },
+    {
+      "source": "github_search",
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "score": 4675
+    },
+    {
+      "source": "github_search",
+      "title": "tangerineturtle1/NX2navi",
+      "url": "https://github.com/tangerineturtle1/NX2navi",
+      "score": 4333
+    },
+    {
+      "source": "github_search",
+      "title": "ersinkoc/phonebox",
+      "url": "https://github.com/ersinkoc/phonebox",
+      "score": 3863
+    },
+    {
+      "source": "github_search",
+      "title": "jhaizhou-ops/S2Arm",
+      "url": "https://github.com/jhaizhou-ops/S2Arm",
+      "score": 3678
+    },
+    {
+      "source": "github_search",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 2702
+    },
+    {
+      "source": "github_search",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 2625
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 2594
+    },
+    {
+      "source": "github_search",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "score": 2563
+    },
+    {
+      "source": "github_search",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 2507
+    }
+  ]
+}

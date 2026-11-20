@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate public trend signals to improve ClearInstall's risk assessment capabilities, ensuring more accurate and up-to-date security checks for npm and PyPI packages. Enhance user experience by providing real-time updates on potential vulnerabilities before installation.
+By integrating features from popular projects like GestaltX and rust-anything, ClearInstall can improve its risk assessment capabilities and enhance user experience. This will make the app more robust and relevant to modern development needs.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
