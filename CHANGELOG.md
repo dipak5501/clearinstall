@@ -4149,3 +4149,21 @@ Signals:
 - deepseek-ai/chat-demo
 - krisgfx9/Wireless-Device-Battery-Monitor
 - tangerineturtle1/NX2navi
+
+## 2026-11-20 — web-learn-2026-11-20T13
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating features from popular projects, ClearInstall can improve its lockfile analysis and risk assessment capabilities. This will ensure users have a more secure and efficient installation process before running any npm or PyPI commands.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- krisgfx9/Wireless-Device-Battery-Monitor
+- tangerineturtle1/NX2navi

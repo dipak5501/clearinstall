@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-20T10:42:39.942Z",
-  "featureId": "web-learn-2026-11-20T10",
+  "at": "2026-11-20T13:49:06.208Z",
+  "featureId": "web-learn-2026-11-20T13",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
-    "summary": "Integrate real-time dependency risk analysis to provide users with up-to-date security and compatibility insights. Leverage machine learning models for predictive analytics on potential issues during installation. Implement a customizable alert system to notify users of critical updates or vulnerabilities in their dependencies.",
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "By integrating features from popular projects, ClearInstall can improve its lockfile analysis and risk assessment capabilities. This will ensure users have a more secure and efficient installation process before running any npm or PyPI commands.",
     "actions": [
-      "Integrate API from huami1314/GestaltX for real-time dependency risk analysis, providing detailed reports on security and compatibility issues.",
-      "Use machine learning models inspired by krisgfx9/Wireless-Device-Battery-Monitor to predict potential installation issues based on historical data and current t",
-      "Develop a customizable alert system similar to Immortal-Protocols/lastbook that notifies users of critical updates or vulnerabilities, allowing them to take pro"
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
     ]
   },
   "signals": [
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8604
+      "score": 8619
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 5867
+      "score": 6066
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5087
+      "score": 5094
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 4906
+      "score": 5017
     },
     {
       "source": "github_search",
       "title": "tangerineturtle1/NX2navi",
       "url": "https://github.com/tangerineturtle1/NX2navi",
-      "score": 4337
+      "score": 4339
     },
     {
       "source": "github_search",
       "title": "ersinkoc/phonebox",
       "url": "https://github.com/ersinkoc/phonebox",
-      "score": 4022
+      "score": 4092
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3709
+      "score": 3717
     },
     {
       "source": "github_search",
       "title": "apex-compute/ANR",
       "url": "https://github.com/apex-compute/ANR",
-      "score": 2711
+      "score": 2722
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2677
+      "score": 2705
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2662
+      "score": 2683
     },
     {
       "source": "github_search",
       "title": "Kianuni/Erosion-CN",
       "url": "https://github.com/Kianuni/Erosion-CN",
-      "score": 2613
+      "score": 2619
     },
     {
       "source": "github_search",
-      "title": "Noniv/abyssal-garden",
-      "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2542
+      "title": "simplexai-labs/linger",
+      "url": "https://github.com/simplexai-labs/linger",
+      "score": 2571
     }
   ]
 }
