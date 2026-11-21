@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-21T17:48:35.035Z",
-  "featureId": "web-learn-2026-11-21T17",
+  "at": "2026-11-21T20:54:44.192Z",
+  "featureId": "web-learn-2026-11-21T20",
   "slug": "clearinstall",
   "idea": {
     "headline": "Enhance ClearInstall with Public Trend Signals",
-    "summary": "By integrating public trend signals, ClearInstall can improve its lockfile and install-surface auditing capabilities to better detect risks associated with npm/PyPI packages, including command expansion in binding.gyp files. This will help users make informed decisions before running installations.",
+    "summary": "By integrating features from similar projects, ClearInstall can improve its lockfile analysis and risk assessment capabilities. This will help users make informed decisions about package installations before running them locally.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8719
+      "score": 8726
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7237
+      "score": 7323
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 5722
+      "score": 5771
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5205
+      "score": 5210
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3771
+      "score": 3774
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3282
+      "score": 3335
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2845
+      "score": 2854
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2839
-    },
-    {
-      "source": "hackernews",
-      "title": "Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]",
-      "url": "https://alpo.ge/remark.pdf",
-      "score": 2811
+      "score": 2852
     },
     {
       "source": "github_search",
       "title": "apex-compute/ANR",
       "url": "https://github.com/apex-compute/ANR",
-      "score": 2791
+      "score": 2814
+    },
+    {
+      "source": "github_search",
+      "title": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "score": 2814
     },
     {
       "source": "github_search",
       "title": "Noniv/abyssal-garden",
       "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2684
+      "score": 2694
     },
     {
       "source": "github_search",
       "title": "Kianuni/Erosion-CN",
       "url": "https://github.com/Kianuni/Erosion-CN",
-      "score": 2673
+      "score": 2675
     }
   ]
 }

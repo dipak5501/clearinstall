@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-By integrating public trend signals, ClearInstall can improve its lockfile and install-surface auditing capabilities to better detect risks associated with npm/PyPI packages, including command expansion in binding.gyp files. This will help users make informed decisions before running installations.
+By integrating features from similar projects, ClearInstall can improve its lockfile analysis and risk assessment capabilities. This will help users make informed decisions about package installations before running them locally.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
