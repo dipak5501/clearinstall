@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-21T08:29:21.941Z",
+  "updatedAt": "2026-11-21T11:35:49.745Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Analysis",
-  "summary": "Integrate real-time dependency analysis to provide up-to-date security insights, improve binding.gyp command handling for native modules, and add support for dynamic package versioning.",
+  "headline": "Enhance ClearInstall with Modern Security Insights",
+  "summary": "Integrate real-time security checks and advanced dependency analysis into ClearInstall to ensure safer local-first installations, leveraging the latest trend signals in package management and security auditing.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8673
+      "score": 8688
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 6900
+      "score": 6999
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 5474
+      "score": 5554
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5168
+      "score": 5180
     },
     {
       "source": "github_search",
       "title": "jhaizhou-ops/S2Arm",
       "url": "https://github.com/jhaizhou-ops/S2Arm",
-      "score": 3751
+      "score": 3759
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3063
+      "score": 3140
     }
   ]
 }
