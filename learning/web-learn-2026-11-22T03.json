@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-22T03:07:59.988Z",
+  "featureId": "web-learn-2026-11-22T03",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "Integrate features from similar local-first installation tools to improve ClearInstall's risk assessment capabilities. Leverage battery monitoring and device management functionalities for a more comprehensive audit process.",
+    "actions": [
+      "Integrate real-time battery usage data checks into the ClearInstall audit surface, ensuring that package installations do not negatively impact device performan",
+      "Adopt dynamic dependency analysis from tools like GestaltX to provide users with detailed insights on potential binding.gyp command expansions and their risks b",
+      "Implement a device health monitoring system inspired by Wireless-Device-Battery-Monitor, which can alert users about any issues that might arise due to the inst"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "huami1314/GestaltX",
+      "url": "https://github.com/huami1314/GestaltX",
+      "score": 8742
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 7483
+    },
+    {
+      "source": "github_search",
+      "title": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "score": 6410
+    },
+    {
+      "source": "github_search",
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "score": 5843
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5224
+    },
+    {
+      "source": "github_search",
+      "title": "simplexai-labs/linger",
+      "url": "https://github.com/simplexai-labs/linger",
+      "score": 3452
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 2888
+    },
+    {
+      "source": "github_search",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 2876
+    },
+    {
+      "source": "github_search",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 2836
+    },
+    {
+      "source": "github_search",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 2717
+    },
+    {
+      "source": "github_search",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "score": 2680
+    },
+    {
+      "source": "github_search",
+      "title": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "score": 2635
+    }
+  ]
+}

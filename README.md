@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Utilize public trend signals to improve the accuracy and relevance of risk assessments in ClearInstall, making it more effective at identifying potential issues before installation. Integrate real-time package dependency tracking and enhance user notifications for better decision-making.
+Integrate features from similar local-first installation tools to improve ClearInstall's risk assessment capabilities. Leverage battery monitoring and device management functionalities for a more comprehensive audit process.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
