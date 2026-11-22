@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Real-Time Risk Assessment
 
-Integrate features from similar local-first installation tools to improve ClearInstall's risk assessment capabilities. Leverage battery monitoring and device management functionalities for a more comprehensive audit process.
+Integrate real-time risk assessment tools to provide up-to-date security insights, enhance dependency tracking for binding.gyp files, and streamline the user interface for better navigation.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
