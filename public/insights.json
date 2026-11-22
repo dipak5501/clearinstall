@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-22T12:27:30.842Z",
+  "updatedAt": "2026-11-22T15:34:03.439Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
-  "summary": "Integrate real-time dependency risk analysis to provide users with up-to-date security insights, improve the user interface for better engagement, and expand support for additional package managers like Go and Ruby.",
+  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Assessment",
+  "summary": "Integrate real-time dependency risk assessment into ClearInstall to provide users with up-to-date information on potential vulnerabilities in their local-first projects. Leverage machine learning models to predict and mitigate risks associated with npm/PyPI packages, including binding.gyp command expansions.",
   "actions": [
-    "[object Object]",
-    "[object Object]",
-    "[object Object]"
+    "Implement a real-time vulnerability scanner that checks for known security issues in dependencies before installation.",
+    "Develop a machine learning model to predict potential vulnerabilities based on historical data and public threat signals.",
+    "Create an interactive dashboard within ClearInstall that highlights risky packages and provides actionable insights for users."
   ],
   "signals": [
     {
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 9725
+      "score": 11320
     },
     {
       "source": "github_search",
       "title": "huami1314/GestaltX",
       "url": "https://github.com/huami1314/GestaltX",
-      "score": 8776
+      "score": 8790
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7707
+      "score": 7811
     },
     {
       "source": "github_search",
       "title": "krisgfx9/Wireless-Device-Battery-Monitor",
       "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
-      "score": 5982
+      "score": 6045
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5256
+      "score": 5273
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3662
+      "score": 3726
     }
   ]
 }
