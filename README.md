@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-By integrating features from similar projects, ClearInstall can improve its lockfile analysis and risk assessment capabilities. This will help users make informed decisions about package installations before running them locally.
+Utilize public trend signals to improve the accuracy and relevance of risk assessments in ClearInstall, making it more effective at identifying potential issues before installation. Integrate real-time package dependency tracking and enhance user notifications for better decision-making.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
