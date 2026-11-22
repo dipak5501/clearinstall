@@ -4419,3 +4419,21 @@ Signals:
 - erkamyaman/rust-anything
 - krisgfx9/Wireless-Device-Battery-Monitor
 - deepseek-ai/chat-demo
+
+## 2026-11-22 — web-learn-2026-11-22T12
+
+Enhance ClearInstall with Real-Time Dependency Risk Analysis
+
+Integrate real-time dependency risk analysis to provide users with up-to-date security insights, improve the user interface for better engagement, and expand support for additional package managers like Go and Ruby.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- huami1314/GestaltX
+- erkamyaman/rust-anything
+- krisgfx9/Wireless-Device-Battery-Monitor
+- deepseek-ai/chat-demo

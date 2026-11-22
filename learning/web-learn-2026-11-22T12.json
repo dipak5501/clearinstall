@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-22T12:27:30.842Z",
+  "featureId": "web-learn-2026-11-22T12",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
+    "summary": "Integrate real-time dependency risk analysis to provide users with up-to-date security insights, improve the user interface for better engagement, and expand support for additional package managers like Go and Ruby.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "score": 9725
+    },
+    {
+      "source": "github_search",
+      "title": "huami1314/GestaltX",
+      "url": "https://github.com/huami1314/GestaltX",
+      "score": 8776
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 7707
+    },
+    {
+      "source": "github_search",
+      "title": "krisgfx9/Wireless-Device-Battery-Monitor",
+      "url": "https://github.com/krisgfx9/Wireless-Device-Battery-Monitor",
+      "score": 5982
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5256
+    },
+    {
+      "source": "github_search",
+      "title": "simplexai-labs/linger",
+      "url": "https://github.com/simplexai-labs/linger",
+      "score": 3662
+    },
+    {
+      "source": "github_search",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 2915
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 2914
+    },
+    {
+      "source": "github_search",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 2876
+    },
+    {
+      "source": "github_search",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 2741
+    },
+    {
+      "source": "github_search",
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "score": 2737
+    },
+    {
+      "source": "github_search",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "score": 2694
+    }
+  ]
+}
