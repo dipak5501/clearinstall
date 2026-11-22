@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time dependency analysis and security checks to improve risk visibility during npm/PyPI installations, ensuring safe and secure local-first deployments. Leverage machine learning for predictive insights into potential vulnerabilities before installation.
+By integrating insights from trending projects, ClearInstall can improve its lockfile analysis and risk assessment capabilities. This will make the app more robust against emerging security threats in npm/PyPI packages.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

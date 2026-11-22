@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-22T21:46:54.022Z",
+  "featureId": "web-learn-2026-11-22T21",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "By integrating insights from trending projects, ClearInstall can improve its lockfile analysis and risk assessment capabilities. This will make the app more robust against emerging security threats in npm/PyPI packages.",
+    "actions": [
+      "Integrate real-time package dependency checks to ensure all dependencies are up-to-date and free of known vulnerabilities based on signals from (14075) ItsNotRe",
+      "Implement a binding.gyp command expansion analysis tool, inspired by (7929) erkamyaman/rust-anything, to detect potential security risks in native modules durin",
+      "Add support for dynamic risk assessment of PyPI packages, leveraging insights from (5277) deepseek-ai/chat-demo and (3804) simplexai-labs/linger to improve over"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "score": 14075
+    },
+    {
+      "source": "github_search",
+      "title": "huami1314/GestaltX",
+      "url": "https://github.com/huami1314/GestaltX",
+      "score": 8804
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 7929
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5277
+    },
+    {
+      "source": "github_search",
+      "title": "simplexai-labs/linger",
+      "url": "https://github.com/simplexai-labs/linger",
+      "score": 3804
+    },
+    {
+      "source": "github_search",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 2963
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 2946
+    },
+    {
+      "source": "github_search",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 2898
+    },
+    {
+      "source": "github_search",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 2782
+    },
+    {
+      "source": "github_search",
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "score": 2745
+    },
+    {
+      "source": "github_search",
+      "title": "HolyArrs/HolyArrs",
+      "url": "https://github.com/HolyArrs/HolyArrs",
+      "score": 2737
+    },
+    {
+      "source": "github_search",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "score": 2708
+    }
+  ]
+}
