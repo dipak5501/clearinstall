@@ -4617,3 +4617,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - Hut-hzf/ung220z-tool
+
+## 2026-11-23 — web-learn-2026-11-23T22
+
+Enhance ClearInstall with Rust and Telemetry
+
+Integrate Rust for enhanced performance, add telemetry tracking to monitor user interactions, and incorporate real-time risk assessments during package installations.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ProjectLeonida/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- Hut-hzf/ung220z-tool
