@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T00:53:31.602Z",
+  "updatedAt": "2026-11-23T04:00:17.586Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities for npm and PyPI packages, including binding.gyp command expansion. This will help users make informed decisions before running installs.",
+  "headline": "Enhancing ClearInstall with Public Trend Signals",
+  "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities for npm and PyPI packages, including binding.gyp command expansion. This will help users make informed decisions before running installations.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 15042
+      "score": 16139
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7998
+      "score": 8086
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5281
+      "score": 5301
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3836
+      "score": 3924
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2979
+      "score": 2989
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2952
+      "score": 2964
     }
   ]
 }

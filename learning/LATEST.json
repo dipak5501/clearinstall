@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-23T00:53:31.602Z",
-  "featureId": "web-learn-2026-11-23T00",
+  "at": "2026-11-23T04:00:17.586Z",
+  "featureId": "web-learn-2026-11-23T04",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Public Trend Signals",
-    "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities for npm and PyPI packages, including binding.gyp command expansion. This will help users make informed decisions before running installs.",
+    "headline": "Enhancing ClearInstall with Public Trend Signals",
+    "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities for npm and PyPI packages, including binding.gyp command expansion. This will help users make informed decisions before running installations.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 15042
+      "score": 16139
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 7998
+      "score": 8086
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5281
+      "score": 5301
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3836
+      "score": 3924
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2979
+      "score": 2989
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2952
+      "score": 2964
     },
     {
       "source": "github_search",
       "title": "apex-compute/ANR",
       "url": "https://github.com/apex-compute/ANR",
-      "score": 2908
+      "score": 2913
     },
     {
       "source": "github_search",
       "title": "Noniv/abyssal-garden",
       "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2793
+      "score": 2796
     },
     {
       "source": "github_search",
       "title": "bookwjitchieni1986/blender-ai-mcp-addon",
       "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "score": 2746
-    },
-    {
-      "source": "github_search",
-      "title": "Kianuni/Erosion-CN",
-      "url": "https://github.com/Kianuni/Erosion-CN",
-      "score": 2712
+      "score": 2753
     },
     {
       "source": "github_search",
       "title": "Eynnzerr/TelemetryCleaner",
       "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-      "score": 2679
+      "score": 2718
+    },
+    {
+      "source": "github_search",
+      "title": "Kianuni/Erosion-CN",
+      "url": "https://github.com/Kianuni/Erosion-CN",
+      "score": 2717
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 2363
+      "score": 2397
     }
   ]
 }
