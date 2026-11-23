@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T04:00:17.586Z",
+  "updatedAt": "2026-11-23T07:06:43.795Z",
   "app": "ClearInstall",
-  "headline": "Enhancing ClearInstall with Public Trend Signals",
-  "summary": "By integrating public trend signals, ClearInstall can improve its risk assessment capabilities for npm and PyPI packages, including binding.gyp command expansion. This will help users make informed decisions before running installations.",
+  "headline": "Enhance ClearInstall with Rust Integration",
+  "summary": "Integrate Rust support to ensure comprehensive package management, improve performance, and expand the scope of supported languages. Leverage TelemetryCleaner for better data handling and user experience insights.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 16139
+      "score": 17024
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8086
+      "score": 8180
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5301
+      "score": 5310
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 3924
+      "score": 3983
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 2989
+      "score": 2999
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2964
+      "score": 2976
     }
   ]
 }
