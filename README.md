@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Rust Integration
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate Rust support to ensure comprehensive package management, improve performance, and expand the scope of supported languages. Leverage TelemetryCleaner for better data handling and user experience insights.
+By integrating features from popular projects like Leonida and rust-anything, ClearInstall can improve its lockfile analysis and command expansion capabilities. This will enhance the overall security and reliability of package installations for users.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

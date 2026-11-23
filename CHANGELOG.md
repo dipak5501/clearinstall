@@ -4545,3 +4545,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - FrigadeHQ/yogurt
+
+## 2026-11-23 — web-learn-2026-11-23T10
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating features from popular projects like Leonida and rust-anything, ClearInstall can improve its lockfile analysis and command expansion capabilities. This will enhance the overall security and reliability of package installations for users.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
