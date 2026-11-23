@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-23T19:33:06.802Z",
+  "featureId": "web-learn-2026-11-23T19",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "Integrate real-time dependency analysis and risk assessment tools to improve ClearInstall's local-first lockfile auditing, ensuring safer npm/PyPI installations. Leverage Rust for performance enhancements and AI-driven insights for better decision-making during the installation process.",
+    "actions": [
+      "Integrate Rust-based dependency analysis tools like 'rust-anything' to enhance the accuracy of binding.gyp command expansion checks.",
+      "Implement machine learning models inspired by 'linger' and 'TelemetryCleaner' to predict potential risks associated with package installations, providing real-t",
+      "Optimize performance using Rust for critical parts of ClearInstall, as suggested by projects like 'rust-anything', to ensure faster and more reliable lockfile a"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "ItsNotRexed/Leonida",
+      "url": "https://github.com/ItsNotRexed/Leonida",
+      "score": 28528
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 8627
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5342
+    },
+    {
+      "source": "github_search",
+      "title": "simplexai-labs/linger",
+      "url": "https://github.com/simplexai-labs/linger",
+      "score": 4150
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3080
+    },
+    {
+      "source": "github_search",
+      "title": "FrigadeHQ/yogurt",
+      "url": "https://github.com/FrigadeHQ/yogurt",
+      "score": 3063
+    },
+    {
+      "source": "github_search",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 3028
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 3000
+    },
+    {
+      "source": "github_search",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 2963
+    },
+    {
+      "source": "github_search",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 2860
+    },
+    {
+      "source": "github_search",
+      "title": "Eynnzerr/TelemetryCleaner",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+      "score": 2794
+    },
+    {
+      "source": "github_search",
+      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
+      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
+      "score": 2765
+    }
+  ]
+}
