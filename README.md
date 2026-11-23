@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhancing ClearInstall with Public Trend Signals
 
-By integrating features from popular projects like Leonida and rust-anything, ClearInstall can improve its lockfile analysis and command expansion capabilities. This will enhance the overall security and reliability of package installations for users.
+By integrating features from trending projects, ClearInstall can improve its risk assessment capabilities and user experience. This will make it more robust in handling various package dependencies and potential security risks.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

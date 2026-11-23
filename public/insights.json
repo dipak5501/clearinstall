@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-23T10:13:06.894Z",
+  "updatedAt": "2026-11-23T13:19:43.910Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "By integrating features from popular projects like Leonida and rust-anything, ClearInstall can improve its lockfile analysis and command expansion capabilities. This will enhance the overall security and reliability of package installations for users.",
+  "headline": "Enhancing ClearInstall with Public Trend Signals",
+  "summary": "By integrating features from trending projects, ClearInstall can improve its risk assessment capabilities and user experience. This will make it more robust in handling various package dependencies and potential security risks.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "ItsNotRexed/Leonida",
       "url": "https://github.com/ItsNotRexed/Leonida",
-      "score": 18174
+      "score": 19693
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8355
+      "score": 8469
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5324
+      "score": 5330
     },
     {
       "source": "github_search",
       "title": "simplexai-labs/linger",
       "url": "https://github.com/simplexai-labs/linger",
-      "score": 4056
+      "score": 4095
     },
     {
       "source": "github_search",
       "title": "FrigadeHQ/yogurt",
       "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 3012
+      "score": 3024
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 2982
+      "score": 2988
     }
   ]
 }

@@ -4563,3 +4563,21 @@ Signals:
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
 - FrigadeHQ/yogurt
+
+## 2026-11-23 — web-learn-2026-11-23T13
+
+Enhancing ClearInstall with Public Trend Signals
+
+By integrating features from trending projects, ClearInstall can improve its risk assessment capabilities and user experience. This will make it more robust in handling various package dependencies and potential security risks.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
