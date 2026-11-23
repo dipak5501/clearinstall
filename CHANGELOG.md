@@ -4491,3 +4491,21 @@ Signals:
 - erkamyaman/rust-anything
 - deepseek-ai/chat-demo
 - simplexai-labs/linger
+
+## 2026-11-23 — web-learn-2026-11-23T00
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can improve its risk assessment capabilities for npm and PyPI packages, including binding.gyp command expansion. This will help users make informed decisions before running installs.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- ItsNotRexed/Leonida
+- erkamyaman/rust-anything
+- deepseek-ai/chat-demo
+- simplexai-labs/linger
+- FrigadeHQ/yogurt
