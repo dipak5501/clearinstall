@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Rust and Telemetry
+**Latest:** Enhance ClearInstall with Rust Integration
 
-Integrate Rust for enhanced performance, add telemetry tracking to monitor user interactions, and incorporate real-time risk assessments during package installations.
+By integrating Rust, ClearInstall can offer more robust and secure dependency management. Leveraging Rust's safety features will reduce potential vulnerabilities in the lockfile audit process.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

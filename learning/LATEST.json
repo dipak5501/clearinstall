@@ -1,88 +1,88 @@
 {
-  "at": "2026-11-23T22:39:43.773Z",
-  "featureId": "web-learn-2026-11-23T22",
+  "at": "2026-11-24T01:45:16.357Z",
+  "featureId": "web-learn-2026-11-24T01",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Rust and Telemetry",
-    "summary": "Integrate Rust for enhanced performance, add telemetry tracking to monitor user interactions, and incorporate real-time risk assessments during package installations.",
+    "headline": "Enhance ClearInstall with Rust Integration",
+    "summary": "By integrating Rust, ClearInstall can offer more robust and secure dependency management. Leveraging Rust's safety features will reduce potential vulnerabilities in the lockfile audit process.",
     "actions": [
-      "[object Object]",
-      "[object Object]",
-      "[object Object]"
+      "Integrate Rust-Anything for enhanced dependency parsing and validation to ensure all dependencies are correctly identified and audited.",
+      "Use Rust libraries for improved performance in analyzing binding.gyp files, ensuring faster and more accurate command expansion checks.",
+      "Implement Rust-based security audits as part of the install-surface checker to detect potential risks early in the development lifecycle."
     ]
   },
   "signals": [
     {
       "source": "github_search",
-      "title": "ProjectLeonida/Leonida",
-      "url": "https://github.com/ProjectLeonida/Leonida",
-      "score": 33018
-    },
-    {
-      "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8680
+      "score": 8750
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5343
-    },
-    {
-      "source": "github_search",
-      "title": "simplexai-labs/linger",
-      "url": "https://github.com/simplexai-labs/linger",
-      "score": 4178
+      "score": 5348
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3134
+      "score": 3390
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3076
+      "score": 3147
     },
     {
       "source": "github_search",
-      "title": "FrigadeHQ/yogurt",
-      "url": "https://github.com/FrigadeHQ/yogurt",
-      "score": 3074
+      "title": "ivall/xcl",
+      "url": "https://github.com/ivall/xcl",
+      "score": 3049
     },
     {
       "source": "github_search",
       "title": "Immortal-Protocols/lastbook",
       "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 3003
+      "score": 3008
     },
     {
       "source": "github_search",
       "title": "apex-compute/ANR",
       "url": "https://github.com/apex-compute/ANR",
-      "score": 2964
+      "score": 2970
     },
     {
       "source": "github_search",
       "title": "Noniv/abyssal-garden",
       "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2872
+      "score": 2876
     },
     {
       "source": "github_search",
       "title": "Eynnzerr/TelemetryCleaner",
       "url": "https://github.com/Eynnzerr/TelemetryCleaner",
-      "score": 2801
+      "score": 2811
     },
     {
       "source": "github_search",
-      "title": "bookwjitchieni1986/blender-ai-mcp-addon",
-      "url": "https://github.com/bookwjitchieni1986/blender-ai-mcp-addon",
-      "score": 2765
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 2511
+    },
+    {
+      "source": "github_search",
+      "title": "ZiChuanLan/freebie-radar",
+      "url": "https://github.com/ZiChuanLan/freebie-radar",
+      "score": 2460
+    },
+    {
+      "source": "github_search",
+      "title": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "score": 2310
     }
   ]
 }
