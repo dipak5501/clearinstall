@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Rust Integration
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
 
-By integrating Rust, ClearInstall can offer more robust and secure dependency management. Leveraging Rust's safety features will reduce potential vulnerabilities in the lockfile audit process.
+Integrate real-time dependency risk analysis to provide up-to-date security insights, expand the tool's capabilities by incorporating binding.gyp command expansion checks, and introduce a user-friendly interface for better accessibility.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-24T01:45:16.357Z",
+  "updatedAt": "2026-11-24T04:51:43.759Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Rust Integration",
-  "summary": "By integrating Rust, ClearInstall can offer more robust and secure dependency management. Leveraging Rust's safety features will reduce potential vulnerabilities in the lockfile audit process.",
+  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
+  "summary": "Integrate real-time dependency risk analysis to provide up-to-date security insights, expand the tool's capabilities by incorporating binding.gyp command expansion checks, and introduce a user-friendly interface for better accessibility.",
   "actions": [
-    "Integrate Rust-Anything for enhanced dependency parsing and validation to ensure all dependencies are correctly identified and audited.",
-    "Use Rust libraries for improved performance in analyzing binding.gyp files, ensuring faster and more accurate command expansion checks.",
-    "Implement Rust-based security audits as part of the install-surface checker to detect potential risks early in the development lifecycle."
+    "[object Object]",
+    "[object Object]",
+    "[object Object]"
   ],
   "signals": [
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8750
+      "score": 8817
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5348
+      "score": 5356
     },
     {
       "source": "github_search",
-      "title": "Hut-hzf/ung220z-tool",
-      "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3390
-    },
-    {
-      "source": "github_search",
-      "title": "EL4CTEO/fast-anything",
-      "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3147
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 4514
     },
     {
       "source": "github_search",
       "title": "ivall/xcl",
       "url": "https://github.com/ivall/xcl",
-      "score": 3049
+      "score": 4057
     },
     {
       "source": "github_search",
-      "title": "Immortal-Protocols/lastbook",
-      "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 3008
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 3619
+    },
+    {
+      "source": "github_search",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 3242
     }
   ]
 }
