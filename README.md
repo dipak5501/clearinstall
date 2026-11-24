@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
+**Latest:** Enhance ClearInstall with Rust and Telemetry
 
-Integrate real-time dependency risk analysis to provide up-to-date security insights, expand the tool's capabilities by incorporating binding.gyp command expansion checks, and introduce a user-friendly interface for better accessibility.
+Integrate Rust for performance improvements, add telemetry features to monitor usage patterns, and implement a more robust lockfile system.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

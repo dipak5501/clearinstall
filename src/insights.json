@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-24T04:51:43.759Z",
+  "updatedAt": "2026-11-24T07:58:00.500Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Analysis",
-  "summary": "Integrate real-time dependency risk analysis to provide up-to-date security insights, expand the tool's capabilities by incorporating binding.gyp command expansion checks, and introduce a user-friendly interface for better accessibility.",
+  "headline": "Enhance ClearInstall with Rust and Telemetry",
+  "summary": "Integrate Rust for performance improvements, add telemetry features to monitor usage patterns, and implement a more robust lockfile system.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8817
-    },
-    {
-      "source": "github_search",
-      "title": "deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5356
+      "score": 8892
     },
     {
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 4514
+      "score": 6019
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5363
     },
     {
       "source": "github_search",
       "title": "ivall/xcl",
       "url": "https://github.com/ivall/xcl",
-      "score": 4057
+      "score": 4975
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3619
+      "score": 3852
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3242
+      "score": 3319
     }
   ]
 }
