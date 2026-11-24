@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-24T23:29:15.597Z",
+  "featureId": "web-learn-2026-11-24T23",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "Integrate real-time dependency analysis and security checks to improve ClearInstall's risk assessment capabilities. Incorporate user feedback from community projects for better usability. Implement a more comprehensive binding.gyp command expansion feature.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 11207
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 9193
+    },
+    {
+      "source": "github_search",
+      "title": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "score": 7788
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5395
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 4421
+    },
+    {
+      "source": "github_search",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 3585
+    },
+    {
+      "source": "github_search",
+      "title": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 3328
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 3052
+    },
+    {
+      "source": "github_search",
+      "title": "apex-compute/ANR",
+      "url": "https://github.com/apex-compute/ANR",
+      "score": 3007
+    },
+    {
+      "source": "github_search",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 2933
+    },
+    {
+      "source": "github_search",
+      "title": "Eynnzerr/TelemetryCleaner",
+      "url": "https://github.com/Eynnzerr/TelemetryCleaner",
+      "score": 2914
+    },
+    {
+      "source": "github_search",
+      "title": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "score": 2779
+    }
+  ]
+}
