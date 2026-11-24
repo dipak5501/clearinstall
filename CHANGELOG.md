@@ -4743,3 +4743,21 @@ Signals:
 - ivall/xcl
 - deepseek-ai/chat-demo
 - Hut-hzf/ung220z-tool
+
+## 2026-11-24 — web-learn-2026-11-24T20
+
+Enhancing ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can improve its lockfile and install-surface auditing capabilities to better identify risks associated with npm/PyPI packages, including binding.gyp command expansion. This will ensure users have a more secure installation process.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool
