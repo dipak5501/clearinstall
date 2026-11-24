@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Rust and Telemetry
 
-Integrate Rust for performance improvements, add telemetry features to monitor usage patterns, and implement a more robust lockfile system.
+Integrate Rust for performance improvements, add telemetry features to monitor usage patterns, and incorporate command expansion checks to ensure safe installations.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

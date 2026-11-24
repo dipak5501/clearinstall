@@ -1,49 +1,49 @@
 {
-  "updatedAt": "2026-11-24T07:58:00.500Z",
+  "updatedAt": "2026-11-24T11:04:33.148Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Rust and Telemetry",
-  "summary": "Integrate Rust for performance improvements, add telemetry features to monitor usage patterns, and implement a more robust lockfile system.",
+  "summary": "Integrate Rust for performance improvements, add telemetry features to monitor usage patterns, and incorporate command expansion checks to ensure safe installations.",
   "actions": [
-    "[object Object]",
-    "[object Object]",
-    "[object Object]"
+    "Implement core functionalities in Rust to leverage its safety and speed benefits, improving the overall performance of ClearInstall.",
+    "Add a telemetry feature to collect anonymous usage data, which can help identify common issues and optimize the application's risk assessment algorithms.",
+    "Enhance the command expansion checks by integrating real-time updates from package managers' repositories to ensure that all potential risks are identified befo"
   ],
   "signals": [
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 8892
+      "score": 8991
     },
     {
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 6019
-    },
-    {
-      "source": "github_search",
-      "title": "deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5363
+      "score": 7677
     },
     {
       "source": "github_search",
       "title": "ivall/xcl",
       "url": "https://github.com/ivall/xcl",
-      "score": 4975
+      "score": 6092
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5375
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 3852
+      "score": 4042
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3319
+      "score": 3405
     }
   ]
 }
