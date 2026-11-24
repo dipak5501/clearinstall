@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Rust Integration
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-By integrating Rust capabilities, ClearInstall can offer more robust and secure package management. Utilizing Rust for critical components will improve performance and reliability, making it a more attractive choice for developers looking to mitigate risks during the installation process.
+Integrate real-time dependency analysis and risk assessment tools to improve ClearInstall's local-first lockfile auditing, ensuring secure and efficient package installations. Leverage advanced binding.gyp command expansion checks to prevent potential vulnerabilities.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
