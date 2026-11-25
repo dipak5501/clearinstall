@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Incorporate real-time dependency analysis and risk assessment to improve the local-first lockfile auditor, ensuring secure and efficient package installations. Leverage community feedback for better user experience and enhanced security features.
+Integrate real-time dependency analysis and risk assessment tools to improve the security of npm/PyPI installations, ensuring users are informed about potential risks before running installs. Add support for Rust packages and expand command expansion checks.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

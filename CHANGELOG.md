@@ -4815,3 +4815,21 @@ Signals:
 - xcl-dev/xcl
 - deepseek-ai/chat-demo
 - Hut-hzf/ung220z-tool
+
+## 2026-11-25 — web-learn-2026-11-25T08
+
+Enhance ClearInstall with Public Trend Signals
+
+Integrate real-time dependency analysis and risk assessment tools to improve the security of npm/PyPI installations, ensuring users are informed about potential risks before running installs. Add support for Rust packages and expand command expansion checks.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool

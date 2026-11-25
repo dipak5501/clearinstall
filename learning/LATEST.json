@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-25T05:42:09.518Z",
-  "featureId": "web-learn-2026-11-25T05",
+  "at": "2026-11-25T08:48:35.787Z",
+  "featureId": "web-learn-2026-11-25T08",
   "slug": "clearinstall",
   "idea": {
     "headline": "Enhance ClearInstall with Public Trend Signals",
-    "summary": "Incorporate real-time dependency analysis and risk assessment to improve the local-first lockfile auditor, ensuring secure and efficient package installations. Leverage community feedback for better user experience and enhanced security features.",
+    "summary": "Integrate real-time dependency analysis and risk assessment tools to improve the security of npm/PyPI installations, ensuring users are informed about potential risks before running installs. Add support for Rust packages and expand command expansion checks.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 11624
+      "score": 11809
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9309
+      "score": 9375
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 7960
+      "score": 8037
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5410
+      "score": 5423
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4575
+      "score": 4646
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3686
+      "score": 3749
     },
     {
       "source": "github_search",
       "title": "AFK-surf/xnulinux",
       "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 3509
-    },
-    {
-      "source": "github_search",
-      "title": "Immortal-Protocols/lastbook",
-      "url": "https://github.com/Immortal-Protocols/lastbook",
-      "score": 3059
+      "score": 3626
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 3058
+      "score": 3163
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 3063
     },
     {
       "source": "github_search",
       "title": "Noniv/abyssal-garden",
       "url": "https://github.com/Noniv/abyssal-garden",
-      "score": 2945
+      "score": 2952
     },
     {
       "source": "github_search",
       "title": "ZiChuanLan/freebie-radar",
       "url": "https://github.com/ZiChuanLan/freebie-radar",
-      "score": 2618
+      "score": 2657
     },
     {
       "source": "github_search",
       "title": "sybil-solutions/inference-optimisation-skill",
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "score": 2603
+      "score": 2626
     }
   ]
 }
