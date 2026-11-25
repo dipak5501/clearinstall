@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T02:35:40.286Z",
+  "updatedAt": "2026-11-25T05:42:09.518Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages, especially those involving binding.gyp command expansion. This will ensure a safer local-first development environment for users.",
+  "summary": "Incorporate real-time dependency analysis and risk assessment to improve the local-first lockfile auditor, ensuring secure and efficient package installations. Leverage community feedback for better user experience and enhanced security features.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 11467
+      "score": 11624
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9249
+      "score": 9309
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 7888
+      "score": 7960
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5403
+      "score": 5410
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4491
+      "score": 4575
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3634
+      "score": 3686
     }
   ]
 }
