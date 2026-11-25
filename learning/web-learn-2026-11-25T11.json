@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-25T11:55:33.810Z",
+  "featureId": "web-learn-2026-11-25T11",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Real-Time Dependency Risk Detection",
+    "summary": "Integrate real-time dependency risk detection to provide users with up-to-date security insights, expand support for additional package managers like Cargo, and implement a user-friendly dashboard for tracking installation risks.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 11961
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 9430
+    },
+    {
+      "source": "github_search",
+      "title": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "score": 8098
+    },
+    {
+      "source": "github_search",
+      "title": "deepseek-ai/chat-demo",
+      "url": "https://github.com/deepseek-ai/chat-demo",
+      "score": 5430
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 4695
+    },
+    {
+      "source": "github_search",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 3786
+    },
+    {
+      "source": "github_search",
+      "title": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 3711
+    },
+    {
+      "source": "github_search",
+      "title": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "score": 3287
+    },
+    {
+      "source": "github_search",
+      "title": "Immortal-Protocols/lastbook",
+      "url": "https://github.com/Immortal-Protocols/lastbook",
+      "score": 3069
+    },
+    {
+      "source": "github_search",
+      "title": "Noniv/abyssal-garden",
+      "url": "https://github.com/Noniv/abyssal-garden",
+      "score": 2962
+    },
+    {
+      "source": "github_search",
+      "title": "ZiChuanLan/freebie-radar",
+      "url": "https://github.com/ZiChuanLan/freebie-radar",
+      "score": 2686
+    },
+    {
+      "source": "github_search",
+      "title": "sybil-solutions/inference-optimisation-skill",
+      "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
+      "score": 2653
+    }
+  ]
+}

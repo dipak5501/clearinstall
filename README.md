@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Detection
 
-Integrate real-time dependency analysis and risk assessment tools to improve the security of npm/PyPI installations, ensuring users are informed about potential risks before running installs. Add support for Rust packages and expand command expansion checks.
+Integrate real-time dependency risk detection to provide users with up-to-date security insights, expand support for additional package managers like Cargo, and implement a user-friendly dashboard for tracking installation risks.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

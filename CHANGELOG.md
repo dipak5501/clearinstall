@@ -4833,3 +4833,21 @@ Signals:
 - xcl-dev/xcl
 - deepseek-ai/chat-demo
 - Hut-hzf/ung220z-tool
+
+## 2026-11-25 — web-learn-2026-11-25T11
+
+Enhance ClearInstall with Real-Time Dependency Risk Detection
+
+Integrate real-time dependency risk detection to provide users with up-to-date security insights, expand support for additional package managers like Cargo, and implement a user-friendly dashboard for tracking installation risks.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool
