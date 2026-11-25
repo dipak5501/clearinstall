@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time dependency analysis and security checks to improve ClearInstall's ability to detect risks associated with npm/PyPI packages, including binding.gyp command expansion. Leverage public trend signals to provide up-to-date package information and potential vulnerabilities before installation.
+Integrate real-time dependency analysis and risk assessment features to improve ClearInstall's local-first lockfile and install-surface auditor, ensuring users are informed about potential risks before running installations.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
