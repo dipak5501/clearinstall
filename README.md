@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time dependency analysis and risk assessment features to improve ClearInstall's local-first lockfile and install-surface auditor, ensuring users are informed about potential risks before running installations.
+Integrate real-time vulnerability checks and binding.gyp command analysis to improve the accuracy of install-time risk assessment. Add support for Rust packages to cover more use cases, and implement a user-friendly interface that highlights potential risks during installation.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

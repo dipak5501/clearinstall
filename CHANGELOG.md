@@ -4887,3 +4887,21 @@ Signals:
 - xcl-dev/xcl
 - deepseek-ai/chat-demo
 - Hut-hzf/ung220z-tool
+
+## 2026-11-25 — web-learn-2026-11-25T21
+
+Enhance ClearInstall with Public Trend Signals
+
+Integrate real-time vulnerability checks and binding.gyp command analysis to improve the accuracy of install-time risk assessment. Add support for Rust packages to cover more use cases, and implement a user-friendly interface that highlights potential risks during installation.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- deepseek-ai/chat-demo
+- Hut-hzf/ung220z-tool
