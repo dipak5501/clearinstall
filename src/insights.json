@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T11:55:33.810Z",
+  "updatedAt": "2026-11-25T15:02:21.788Z",
   "app": "ClearInstall",
-  "headline": "Enhance ClearInstall with Real-Time Dependency Risk Detection",
-  "summary": "Integrate real-time dependency risk detection to provide users with up-to-date security insights, expand support for additional package managers like Cargo, and implement a user-friendly dashboard for tracking installation risks.",
+  "headline": "Enhance ClearInstall with Public Trend Signals",
+  "summary": "Integrate real-time dependency analysis and security checks to improve ClearInstall's ability to detect risks associated with npm/PyPI packages, including binding.gyp command expansion. Leverage public trend signals to provide up-to-date package information and potential vulnerabilities before installation.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 11961
+      "score": 12214
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9430
+      "score": 9480
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8098
+      "score": 8161
     },
     {
       "source": "github_search",
       "title": "deepseek-ai/chat-demo",
       "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5430
+      "score": 5434
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4695
+      "score": 4744
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3786
+      "score": 3841
     }
   ]
 }
