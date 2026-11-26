@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-25T21:15:13.945Z",
+  "updatedAt": "2026-11-26T00:21:17.819Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "Integrate real-time vulnerability checks and binding.gyp command analysis to improve the accuracy of install-time risk assessment. Add support for Rust packages to cover more use cases, and implement a user-friendly interface that highlights potential risks during installation.",
+  "summary": "Integrate real-time dependency analysis and security checks to ensure safe npm/PyPI installations, including binding.gyp command expansion. Leverage advanced scanning techniques for improved risk visibility before running installs.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 12509
+      "score": 12606
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9569
+      "score": 9604
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8278
-    },
-    {
-      "source": "github_search",
-      "title": "deepseek-ai/chat-demo",
-      "url": "https://github.com/deepseek-ai/chat-demo",
-      "score": 5443
+      "score": 8315
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4803
+      "score": 4834
+    },
+    {
+      "source": "github_search",
+      "title": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "score": 4114
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3926
+      "score": 3955
     }
   ]
 }

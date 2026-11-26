@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time vulnerability checks and binding.gyp command analysis to improve the accuracy of install-time risk assessment. Add support for Rust packages to cover more use cases, and implement a user-friendly interface that highlights potential risks during installation.
+Integrate real-time dependency analysis and security checks to ensure safe npm/PyPI installations, including binding.gyp command expansion. Leverage advanced scanning techniques for improved risk visibility before running installs.
 
 See `learning/LATEST.json` and `public/insights.json`.
 

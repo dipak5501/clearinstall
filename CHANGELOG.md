@@ -4905,3 +4905,21 @@ Signals:
 - xcl-dev/xcl
 - deepseek-ai/chat-demo
 - Hut-hzf/ung220z-tool
+
+## 2026-11-26 — web-learn-2026-11-26T00
+
+Enhance ClearInstall with Public Trend Signals
+
+Integrate real-time dependency analysis and security checks to ensure safe npm/PyPI installations, including binding.gyp command expansion. Leverage advanced scanning techniques for improved risk visibility before running installs.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- Hut-hzf/ung220z-tool
+- 4lwayz/portwatch-vi
