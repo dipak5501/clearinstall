@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-26T00:21:17.819Z",
-  "featureId": "web-learn-2026-11-26T00",
+  "at": "2026-11-26T03:27:48.021Z",
+  "featureId": "web-learn-2026-11-26T03",
   "slug": "clearinstall",
   "idea": {
     "headline": "Enhance ClearInstall with Public Trend Signals",
-    "summary": "Integrate real-time dependency analysis and security checks to ensure safe npm/PyPI installations, including binding.gyp command expansion. Leverage advanced scanning techniques for improved risk visibility before running installs.",
+    "summary": "Integrate real-time dependency analysis and security checks to boost ClearInstall’s risk assessment capabilities. Leverage community feedback for improved user experience and feature prioritization.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 12606
+      "score": 12674
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9604
+      "score": 9660
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8315
+      "score": 8338
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 4834
+      "score": 4928
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 4114
+      "score": 4311
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 3955
+      "score": 4015
     },
     {
       "source": "github_search",
       "title": "AFK-surf/xnulinux",
       "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 3934
+      "score": 3983
     },
     {
       "source": "github_search",
       "title": "fxceless/victory-fork",
       "url": "https://github.com/fxceless/victory-fork",
-      "score": 3063
+      "score": 3099
     },
     {
       "source": "github_search",
       "title": "sybil-solutions/inference-optimisation-skill",
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "score": 2700
+      "score": 2716
     },
     {
       "source": "github_search",
       "title": "iamajmeena/neonclipping",
       "url": "https://github.com/iamajmeena/neonclipping",
-      "score": 2628
+      "score": 2633
     },
     {
       "source": "github_search",
       "title": "ubiquitarianism/leonida",
       "url": "https://github.com/ubiquitarianism/leonida",
-      "score": 2328
+      "score": 2354
     },
     {
       "source": "github_search",
       "title": "pierridotite/mobile-agent-testers",
       "url": "https://github.com/pierridotite/mobile-agent-testers",
-      "score": 2304
+      "score": 2344
     }
   ]
 }
