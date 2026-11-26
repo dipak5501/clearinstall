@@ -1,6 +1,5 @@
 {
   "shipped": [
-    "web-learn-2026-11-21T11",
     "web-learn-2026-11-21T14",
     "web-learn-2026-11-21T17",
     "web-learn-2026-11-21T20",
@@ -39,6 +38,7 @@
     "requirements-txt-v1",
     "web-learn-2026-11-26T03",
     "ignore-scripts-hint-v1",
-    "web-learn-2026-11-26T06"
+    "web-learn-2026-11-26T06",
+    "web-learn-2026-11-26T09"
   ]
 }
