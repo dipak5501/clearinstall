@@ -4995,3 +4995,21 @@ Signals:
 - xcl-dev/xcl
 - Hut-hzf/ung220z-tool
 - 4lwayz/portwatch-vi
+
+## 2026-11-26 — web-learn-2026-11-26T15
+
+Enhance ClearInstall with Public Trend Signals
+
+By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm and PyPI packages before installation. This will improve the security and reliability of local-first applications.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- Hut-hzf/ung220z-tool
+- 4lwayz/portwatch-vi
