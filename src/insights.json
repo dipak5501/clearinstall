@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-26T15:53:46.830Z",
+  "updatedAt": "2026-11-26T18:59:55.059Z",
   "app": "ClearInstall",
   "headline": "Enhance ClearInstall with Public Trend Signals",
-  "summary": "By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm and PyPI packages before installation. This will improve the security and reliability of local-first applications.",
+  "summary": "Integrate real-time dependency analysis and risk assessment to improve the accuracy of install-time risks. Leverage community feedback on package security and performance for better decision-making during installations.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 13074
+      "score": 13184
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 9969
+      "score": 10083
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8492
+      "score": 8557
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 5382
+      "score": 5460
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 5168
+      "score": 5395
     },
     {
       "source": "github_search",
       "title": "AFK-surf/xnulinux",
       "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 4172
+      "score": 4201
     }
   ]
 }
