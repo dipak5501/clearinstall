@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time dependency tracking and risk assessment to boost user confidence in local-first installations. Leverage advanced binding.gyp command expansion for enhanced security checks.
+Integrate real-time dependency analysis and security checks to improve the accuracy of risk assessment before installations. Leverage community feedback for better user experience and feature enhancements.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
