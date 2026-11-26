@@ -5031,3 +5031,21 @@ Signals:
 - xcl-dev/xcl
 - Hut-hzf/ung220z-tool
 - 4lwayz/portwatch-vi
+
+## 2026-11-26 — web-learn-2026-11-26T22
+
+Enhance ClearInstall with Real-Time Dependency Risk Analysis
+
+Integrate real-time dependency risk analysis to provide up-to-date security insights, expand support for binding.gyp command expansion, and introduce a visual dashboard for easy monitoring of installation risks.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- 4lwayz/portwatch-vi
+- Hut-hzf/ung220z-tool
