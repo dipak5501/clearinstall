@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Rust Integration
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-By integrating Rust support, improving dependency resolution, and adding real-time risk assessment features, ClearInstall can better protect users from potential vulnerabilities during installation.
+By integrating public trend signals, ClearInstall can improve its risk assessment capabilities for npm and PyPI packages, including binding.gyp command expansion. This will help users make informed decisions before running installations.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
