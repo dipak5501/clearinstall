@@ -1,14 +1,14 @@
 {
-  "at": "2026-11-27T10:32:35.448Z",
-  "featureId": "web-learn-2026-11-27T10",
+  "at": "2026-11-27T13:39:01.644Z",
+  "featureId": "web-learn-2026-11-27T13",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhancing ClearInstall with Public Trend Signals",
-    "summary": "By integrating features from Marvisak/VIctory and erkamyaman/rust-anything, ClearInstall can improve its risk assessment capabilities for Rust packages. Additionally, incorporating xcl-dev/xcl's real-time dependency analysis will enhance the overall security audit process.",
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "Integrate real-time dependency tracking and risk assessment to improve ClearInstall's local-first lockfile and install-surface auditor, ensuring safer npm/PyPI installations. Incorporate Rust support for broader language coverage and enhance user interface for better accessibility.",
     "actions": [
-      "[object Object]",
-      "[object Object]",
-      "[object Object]"
+      "Add real-time dependency tracking to identify potential risks in dependencies before installation.",
+      "Support Rust through the integration of rust-anything or similar projects to cover more languages.",
+      "Improve the user interface to make it more intuitive, including a risk assessment dashboard."
     ]
   },
   "signals": [
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 13570
+      "score": 13630
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 10496
+      "score": 10575
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8651
+      "score": 8672
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 6182
+      "score": 6285
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 5745
+      "score": 5790
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 4356
+      "score": 4393
     },
     {
       "source": "github_search",
       "title": "AFK-surf/xnulinux",
       "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 4301
+      "score": 4309
     },
     {
       "source": "github_search",
       "title": "Belobug/VIctory-Belobug-AMD",
       "url": "https://github.com/Belobug/VIctory-Belobug-AMD",
-      "score": 3729
+      "score": 3934
     },
     {
       "source": "github_search",
       "title": "fxceless/victory-fork",
       "url": "https://github.com/fxceless/victory-fork",
-      "score": 3317
+      "score": 3326
     },
     {
       "source": "github_search",
       "title": "sybil-solutions/inference-optimisation-skill",
       "url": "https://github.com/sybil-solutions/inference-optimisation-skill",
-      "score": 2849
+      "score": 2856
     },
     {
       "source": "github_search",
       "title": "iamajmeena/neonclipping",
       "url": "https://github.com/iamajmeena/neonclipping",
-      "score": 2814
+      "score": 2839
     },
     {
       "source": "github_search",
       "title": "RMvdesi/obsidian-prism",
       "url": "https://github.com/RMvdesi/obsidian-prism",
-      "score": 2655
+      "score": 2768
     }
   ]
 }

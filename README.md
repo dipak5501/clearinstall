@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhancing ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-By integrating features from Marvisak/VIctory and erkamyaman/rust-anything, ClearInstall can improve its risk assessment capabilities for Rust packages. Additionally, incorporating xcl-dev/xcl's real-time dependency analysis will enhance the overall security audit process.
+Integrate real-time dependency tracking and risk assessment to improve ClearInstall's local-first lockfile and install-surface auditor, ensuring safer npm/PyPI installations. Incorporate Rust support for broader language coverage and enhance user interface for better accessibility.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
