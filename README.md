@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Real-Time Dependency Risk Analysis
+**Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time dependency risk analysis to provide up-to-date security insights, expand support for binding.gyp command expansion, and introduce a visual dashboard for easy monitoring of installation risks.
+Integrate real-time dependency analysis and risk assessment tools to improve the accuracy of ClearInstall's npm/PyPI install-time checks, especially focusing on binding.gyp command expansion. Leverage Rust-Anything for robustness in handling C/C++ bindings and Victory forks for enhanced security audits.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
