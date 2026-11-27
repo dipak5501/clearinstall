@@ -52,9 +52,9 @@ MIT
 
 This app continuously learns from a **representative** public-web scan on the Mac Studio (not the entire internet).
 
-**Latest:** Enhance ClearInstall with Public Trend Signals
+**Latest:** Enhance ClearInstall with Rust Integration
 
-Integrate real-time dependency tracking and risk assessment to improve ClearInstall's local-first lockfile and install-surface auditor, ensuring safer npm/PyPI installations. Incorporate Rust support for broader language coverage and enhance user interface for better accessibility.
+By integrating Rust support, ClearInstall can offer a more comprehensive install-time risk analysis. Additionally, incorporating real-time dependency tracking and enhancing the UI for better user experience will further solidify its position as a leading local-first lockfile auditor.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
