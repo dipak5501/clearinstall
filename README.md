@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhance ClearInstall with Public Trend Signals
 
-Integrate real-time dependency analysis and security checks to improve the accuracy of risk detection in npm and PyPI packages. Incorporate user feedback mechanisms for better community-driven updates, and expand support for Rust and other emerging languages.
+Integrate real-time dependency analysis and security checks to improve the accuracy of risk detection in npm/PyPI packages, especially focusing on binding.gyp command expansion. Leverage community feedback for faster issue resolution and user support.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
