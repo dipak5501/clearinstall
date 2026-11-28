@@ -5229,3 +5229,21 @@ Signals:
 - xcl-dev/xcl
 - 4lwayz/portwatch-vi
 - Hut-hzf/ung220z-tool
+
+## 2026-11-28 — web-learn-2026-11-28T08
+
+Enhancing ClearInstall with Public Trend Signals
+
+By integrating features from Marvisak/VIctory and erkamyaman/rust-anything, ClearInstall can improve its lockfile auditing capabilities and expand support for Rust packages. This will provide users with a more comprehensive risk assessment before installation.
+
+Suggested actions:
+- [object Object]
+- [object Object]
+- [object Object]
+
+Signals:
+- Marvisak/VIctory
+- erkamyaman/rust-anything
+- xcl-dev/xcl
+- 4lwayz/portwatch-vi
+- Hut-hzf/ung220z-tool

@@ -1,10 +1,10 @@
 {
-  "at": "2026-11-28T05:11:10.356Z",
-  "featureId": "web-learn-2026-11-28T05",
+  "at": "2026-11-28T08:17:33.660Z",
+  "featureId": "web-learn-2026-11-28T08",
   "slug": "clearinstall",
   "idea": {
-    "headline": "Enhance ClearInstall with Public Trend Signals",
-    "summary": "By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm/PyPI packages, especially those involving binding.gyp command expansion. This will enhance user trust and security.",
+    "headline": "Enhancing ClearInstall with Public Trend Signals",
+    "summary": "By integrating features from Marvisak/VIctory and erkamyaman/rust-anything, ClearInstall can improve its lockfile auditing capabilities and expand support for Rust packages. This will provide users with a more comprehensive risk assessment before installation.",
     "actions": [
       "[object Object]",
       "[object Object]",
@@ -16,73 +16,73 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 13861
+      "score": 13899
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 10854
+      "score": 10910
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8752
+      "score": 8771
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 6849
+      "score": 6907
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 5919
+      "score": 5948
     },
     {
       "source": "github_search",
       "title": "EL4CTEO/fast-anything",
       "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 4516
-    },
-    {
-      "source": "github_search",
-      "title": "AFK-surf/xnulinux",
-      "url": "https://github.com/AFK-surf/xnulinux",
-      "score": 4381
+      "score": 4545
     },
     {
       "source": "github_search",
       "title": "trustno1-coder/VIctory-NVIDIA",
       "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
-      "score": 3981
+      "score": 4468
+    },
+    {
+      "source": "github_search",
+      "title": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 4391
     },
     {
       "source": "github_search",
       "title": "fxceless/victory-fork",
       "url": "https://github.com/fxceless/victory-fork",
-      "score": 3363
+      "score": 3368
     },
     {
       "source": "github_search",
       "title": "RMvdesi/obsidian-prism",
       "url": "https://github.com/RMvdesi/obsidian-prism",
-      "score": 2980
+      "score": 3032
     },
     {
       "source": "github_search",
       "title": "ProjectLeonida/mandy",
       "url": "https://github.com/ProjectLeonida/mandy",
-      "score": 2978
+      "score": 3027
     },
     {
       "source": "github_search",
       "title": "iamajmeena/neonclipping",
       "url": "https://github.com/iamajmeena/neonclipping",
-      "score": 2939
+      "score": 2958
     }
   ]
 }
