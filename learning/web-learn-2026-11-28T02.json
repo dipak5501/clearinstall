@@ -1,0 +1,88 @@
+{
+  "at": "2026-11-28T02:04:55.267Z",
+  "featureId": "web-learn-2026-11-28T02",
+  "slug": "clearinstall",
+  "idea": {
+    "headline": "Enhance ClearInstall with Public Trend Signals",
+    "summary": "By integrating public trend signals, ClearInstall can better identify and mitigate risks associated with npm and PyPI packages, including binding.gyp command expansions. This will improve the security and reliability of local-first installations.",
+    "actions": [
+      "[object Object]",
+      "[object Object]",
+      "[object Object]"
+    ]
+  },
+  "signals": [
+    {
+      "source": "github_search",
+      "title": "Marvisak/VIctory",
+      "url": "https://github.com/Marvisak/VIctory",
+      "score": 13829
+    },
+    {
+      "source": "github_search",
+      "title": "erkamyaman/rust-anything",
+      "url": "https://github.com/erkamyaman/rust-anything",
+      "score": 10806
+    },
+    {
+      "source": "github_search",
+      "title": "xcl-dev/xcl",
+      "url": "https://github.com/xcl-dev/xcl",
+      "score": 8743
+    },
+    {
+      "source": "github_search",
+      "title": "4lwayz/portwatch-vi",
+      "url": "https://github.com/4lwayz/portwatch-vi",
+      "score": 6777
+    },
+    {
+      "source": "github_search",
+      "title": "Hut-hzf/ung220z-tool",
+      "url": "https://github.com/Hut-hzf/ung220z-tool",
+      "score": 5883
+    },
+    {
+      "source": "github_search",
+      "title": "EL4CTEO/fast-anything",
+      "url": "https://github.com/EL4CTEO/fast-anything",
+      "score": 4481
+    },
+    {
+      "source": "github_search",
+      "title": "AFK-surf/xnulinux",
+      "url": "https://github.com/AFK-surf/xnulinux",
+      "score": 4371
+    },
+    {
+      "source": "github_search",
+      "title": "trustno1-coder/VIctory-NVIDIA",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "score": 3488
+    },
+    {
+      "source": "github_search",
+      "title": "fxceless/victory-fork",
+      "url": "https://github.com/fxceless/victory-fork",
+      "score": 3362
+    },
+    {
+      "source": "github_search",
+      "title": "RMvdesi/obsidian-prism",
+      "url": "https://github.com/RMvdesi/obsidian-prism",
+      "score": 2940
+    },
+    {
+      "source": "github_search",
+      "title": "iamajmeena/neonclipping",
+      "url": "https://github.com/iamajmeena/neonclipping",
+      "score": 2929
+    },
+    {
+      "source": "github_search",
+      "title": "ProjectLeonida/mandy",
+      "url": "https://github.com/ProjectLeonida/mandy",
+      "score": 2907
+    }
+  ]
+}
