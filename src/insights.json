@@ -1,8 +1,8 @@
 {
-  "updatedAt": "2026-11-28T08:17:33.660Z",
+  "updatedAt": "2026-11-28T11:24:16.882Z",
   "app": "ClearInstall",
   "headline": "Enhancing ClearInstall with Public Trend Signals",
-  "summary": "By integrating features from Marvisak/VIctory and erkamyaman/rust-anything, ClearInstall can improve its lockfile auditing capabilities and expand support for Rust packages. This will provide users with a more comprehensive risk assessment before installation.",
+  "summary": "By integrating features from Marvisak/VIctory and erkamyaman/rust-anything, ClearInstall can improve its risk assessment capabilities for npm/PyPI packages. Additionally, incorporating insights from xcl-dev/xcl will help in better handling of binding.gyp command expansions.",
   "actions": [
     "[object Object]",
     "[object Object]",
@@ -13,37 +13,37 @@
       "source": "github_search",
       "title": "Marvisak/VIctory",
       "url": "https://github.com/Marvisak/VIctory",
-      "score": 13899
+      "score": 13967
     },
     {
       "source": "github_search",
       "title": "erkamyaman/rust-anything",
       "url": "https://github.com/erkamyaman/rust-anything",
-      "score": 10910
+      "score": 10980
     },
     {
       "source": "github_search",
       "title": "xcl-dev/xcl",
       "url": "https://github.com/xcl-dev/xcl",
-      "score": 8771
+      "score": 8775
     },
     {
       "source": "github_search",
       "title": "4lwayz/portwatch-vi",
       "url": "https://github.com/4lwayz/portwatch-vi",
-      "score": 6907
+      "score": 6983
     },
     {
       "source": "github_search",
       "title": "Hut-hzf/ung220z-tool",
       "url": "https://github.com/Hut-hzf/ung220z-tool",
-      "score": 5948
+      "score": 5983
     },
     {
       "source": "github_search",
-      "title": "EL4CTEO/fast-anything",
-      "url": "https://github.com/EL4CTEO/fast-anything",
-      "score": 4545
+      "title": "trustno1-coder/VIctory-NVIDIA",
+      "url": "https://github.com/trustno1-coder/VIctory-NVIDIA",
+      "score": 4996
     }
   ]
 }

@@ -54,7 +54,7 @@ This app continuously learns from a **representative** public-web scan on the Ma
 
 **Latest:** Enhancing ClearInstall with Public Trend Signals
 
-By integrating features from Marvisak/VIctory and erkamyaman/rust-anything, ClearInstall can improve its lockfile auditing capabilities and expand support for Rust packages. This will provide users with a more comprehensive risk assessment before installation.
+By integrating features from Marvisak/VIctory and erkamyaman/rust-anything, ClearInstall can improve its risk assessment capabilities for npm/PyPI packages. Additionally, incorporating insights from xcl-dev/xcl will help in better handling of binding.gyp command expansions.
 
 See `learning/LATEST.json` and `public/insights.json`.
 
